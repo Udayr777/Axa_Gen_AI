@@ -1,0 +1,1846 @@
+Customer Statement,Sentiment_actual
+"Hi, I'm calling about a claim that was denied. My member ID is MEM123456. I'm very frustrated because I was told that the policy doesn't cover the service, but I recently switched policies and the new one should cover it.",Negative
+"Well, I've tried registering multiple times, but it keeps saying that my email is already in use. But when I try to log in, it says that my password is incorrect.",Neutral
+(sighs) Okay...,Neutral
+"Hi, I'm calling about my recent doctor's visit. I was charged a $50 copay, but I'm pretty sure my policy says I shouldn't have to pay anything for that service.",Negative
+(frustrated) That's ridiculous. I switched policies over two months ago. How long does it take to update the system?,Negative
+"Yes, that sounds good. Thank you for your help.",Positive
+That's great news! Thank you so much for your help. I really appreciate it.,Positive
+Bye!,Positive
+"Well, I'm trying to register and log in, but it keeps saying my credentials are incorrect. I've tried resetting my password, but it's still not working.",Negative
+"No, that's all. Thank you again for your help.",Negative
+"Hi, I'm having trouble registering and logging in to my online service account. My member ID is MEM456789.",Negative
+"You too, thank you.",Positive
+"No, that's all. Thank you.",Negative
+"Okay, I understand. But can you at least give me a case number or something so I can reference this when I follow up?",Neutral
+My doctor's name is Dr. Smith and the facility is Mercy Hospital.,Positive
+"Hi, I'm calling about my recent copay for a doctor's visit. I was charged $50, but I thought it was supposed to be $20 or maybe even free. Can you help me figure out what's going on?",Negative
+"No, that's all. Thank you.",Negative
+"Hi, I'm calling about a denied claim I received for a recent service. My name is Emily Wilson and my member ID is MEM123456.",Negative
+I was thinking sometime next week. Do you have any availability on Wednesday or Thursday?,Negative
+"(pauses) Okay, I'm logged in now. But this is really frustrating. I shouldn't have had to call technical support just to log in to my account.",Negative
+"Sure, I'll hold.",Neutral
+That's helpful. I think I'd like to schedule an appointment with Dr. Johnson on Thursday at 10 AM.,Neutral
+"Hi, I'm calling about a denied claim I received for a recent medical service. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Yes, that's exactly what I'm doing. It's MEM123456.",Positive
+"Hi, I'm calling because I'm having trouble logging in to my online service account. My member ID is MEM123456.",Negative
+"No, that's all. Thank you for your help!",Negative
+"Sure, thank you.",Positive
+"That sounds great, thank you! How long will it take for the refund to be processed?",Positive
+"Okay, I've done that. But I'm still having the same issue.",Neutral
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a $50 copay, but I'm pretty sure my policy says I only have to pay $20 for that service.",Negative
+"Alright, I'll let my doctor know. How long will it take to get a decision after you receive the documents?",Neutral
+It's MEM123456.,Neutral
+"Yes, of course. I had a procedure done last month, and when I submitted the claim, it was denied because the policy doesn't cover the service. However, I had switched to a new policy before the procedure, and I'm certain the new policy covers this service.",Neutral
+"Hi, I'm having some trouble registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"Thanks, bye.",Positive
+"Hi, I'm calling about my recent visit to the doctor's office. I was charged a copay of $50, but I thought my policy had a $20 copay for that service.",Negative
+"It's August 12, 1985.",Negative
+"No, that's all. Thank you again.",Negative
+"Okay, I've tried that before, but it doesn't work. It says my email address isn't associated with an account.",Neutral
+"Yes, please do that.",Neutral
+"My name is Emily Wilson, and my date of birth is March 12, 1985.",Positive
+"I've already tried that, but it's not working. It says that my email address is not recognized.",Negative
+It's MEM123456.,Neutral
+"Okay, how long will that take?",Neutral
+"Okay, I'll hold.",Neutral
+"You too, bye.",Positive
+"Great, thank you so much! What's the pre-authorization number?",Positive
+"No, that's all.",Negative
+Thank you.,Positive
+"No, that's all for now. Thank you.",Positive
+"No, I think that's all. Thanks again for your help.",Negative
+"The visit was on January 10th, and the provider's name is Dr. Smith.",Negative
+"I see. So, will I still need to get pre-authorized?",Neutral
+"Great, thank you again for your help!",Positive
+I'm looking for a dermatologist. I'd like to schedule it for next Wednesday or Thursday. I'm available anytime between 9 am and 3 pm.,Positive
+How do I check that?,Negative
+Sounds good.,Positive
+Thank you again. I'll wait to hear back from the claims team.,Positive
+"It just says ""Invalid username or password"" every time I try to log in. I've tried resetting my password multiple times, but it doesn't seem to be working.",Negative
+That's correct. I switched policies in January. I don't understand why the new policy isn't reflected in your system.,Neutral
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but my policy says I shouldn't have to pay anything for this type of service.",Negative
+"Thanks, you too.",Positive
+"Oh, I see. Can you fix that and reprocess my claim?",Negative
+"No, that's all.",Negative
+"Alright, that sounds great. Thank you for your help.",Positive
+"Sure, no problem.",Positive
+"Yes, of course. The date of service was January 10th, and the reason for denial was that the policy does not cover the service. But I had switched my policy in December, and as per my new policy, the affected services should be covered.",Neutral
+"(pause) No, I haven't received the email.",Negative
+That's frustrating. Can you tell me how much the deductible is and how much the procedure will cost?,Negative
+My plan type is the Gold Plan and the surgery will be performed at Mercy Hospital.,Positive
+"Oh, that makes sense. I did try logging in a few times before I called.",Neutral
+Okay... thank you. I appreciate your help.,Neutral
+"Thank you, you too.",Positive
+"Well, when I try to register, it says my email address is already in use, but I've never registered before. And when I try to log in, it says my password is incorrect, but I'm sure I'm entering the right one.",Neutral
+"You too, thank you.",Positive
+"It's March 12, 1985.",Positive
+Sounds good. How long will that take?,Positive
+"It was on February 10th, and the doctor's name is Dr. Smith.",Negative
+I'm using Google Chrome. (00:40),Positive
+That sounds great. Can you tell me a bit about Dr. Johnson?,Positive
+"Well, when I try to register, it says that my email address is already in use. But I'm sure I've never registered before.",Neutral
+Sounds good. Thanks again.,Positive
+"Alright, thank you so much for your help. I appreciate it.",Positive
+"It's March 12, 1985.",Positive
+"No, that's all for now. Thank you.",Positive
+"Okay, thank you.",Neutral
+"Yes, the service was on January 10th, and the denial reason is ""policy does not cover the service"". But like I said, I've switched to a new policy that started on January 1st, and I'm sure this service is covered under the new policy.",Negative
+"Hi, I'm calling about issues I'm having with registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"(pause) Yes, I'm in! Thank you so much for your help.",Positive
+"Okay, thank you.",Neutral
+"That sounds great, thank you! But how long will it take to get this resolved?",Positive
+"Yes, that's correct. I switched policies a few months ago. As per my new policy, the services I claimed should be covered.",Neutral
+"No, that's all. Thank you for your help.",Negative
+My member ID is MEM123456.,Positive
+"My date of birth is March 12, 1985, and my contact number is 555-1234.",Positive
+"Okay, that's what I expected. Can you tell me how much the deductible is and how much I'll be responsible for paying out of pocket?",Neutral
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"Hi, I need to schedule an appointment with a specialist. My member ID is MEM123456.",Neutral
+"My doctor's name is Dr. Smith, and the surgery will be at Oakwood Hospital.",Positive
+That's wonderful news! Thank you so much for your help and for resolving this issue.,Positive
+That sounds perfect. Go ahead and schedule the appointment for Wednesday at 2 PM.,Positive
+"No, that's all. Thank you for your help!",Negative
+"When I try to log in, it says my username and password are incorrect. I've tried resetting my password, but it doesn't seem to work.",Negative
+That explains a lot. What can be done to rectify this situation?,Positive
+"The date of service was January 10th, and the provider's name is Dr. Smith.",Negative
+"I've already tried that. I've reset my password multiple times, but I still can't log in. And now I'm getting a message that says my account is locked.",Negative
+"No, that's all. Thank you so much for your help!",Positive
+"It was on February 10th, and it was a routine check-up.",Negative
+Sure.,Positive
+Thank you for the follow-up. I appreciate it.,Positive
+"Great, thanks for that.",Positive
+"Will do, thank you.",Positive
+"No, that's all. Thank you again.",Negative
+"That doesn't make sense. I did switch policies, and I should have received the new policy documents by now.",Negative
+Thank you. Bye.,Positive
+"Yeah, that's fine. Thank you for your help so far.",Positive
+"Yes, that works! Thank you so much for your help. I really appreciate it.",Positive
+It's johndoe@email.com.,Positive
+"Okay, that sounds good. Thank you again for your help in resolving this issue.",Neutral
+"It's 123 Main Street, Anytown, PA 12345.",Neutral
+"My address is 123 Main St, Anytown, USA 12345.",Positive
+"Okay, that sounds good. Thank you.",Neutral
+I've been having some issues with my knee and I'm looking to see an orthopedic specialist.,Neutral
+"Okay, that makes sense. But I'm still not sure why I wasn't informed about the higher copay before the visit.",Neutral
+"No, that's all. Thank you again for your help.",Negative
+"The procedure code is 12345 and the date of service is scheduled for next Wednesday, March 22nd.",Negative
+That makes sense. I did switch policies recently. Can you please update the system and reprocess the claim?,Neutral
+"Okay, that's fine. Thank you.",Neutral
+"Okay, that sounds good. Can you give me an estimated timeframe for when this will be resolved?",Neutral
+"That's the thing - I recently switched to a new policy, and I'm certain that this service is covered under the new policy.",Neutral
+(frustrated) That's ridiculous. I've only tried logging in a few times. And now you're telling me my account is locked?,Negative
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but I thought my policy waived copays for primary care visits.",Negative
+"Okay, I'll try that. (pause) Okay, I've tried resetting my password, but it's still not working.",Neutral
+"I've already tried that, but it says my email address is not recognized.",Negative
+"Okay, thank you for your help in resolving this.",Neutral
+"Sure, go ahead.",Positive
+"Yeah, either one is fine. But I was really hoping to get in sooner. Can't you check if there are any earlier appointments available?",Neutral
+"My doctor's name is Dr. Smith, and the surgery will be at Oakwood Hospital.",Positive
+"You too, bye!",Positive
+"Hi, I'm calling to get a case pre-authorized for a surgery I need. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"I had switched my policy a few months ago, and according to the new policy, the service I received should be covered. I'm not sure why it was denied.",Neutral
+I need to see a cardiologist. I've been experiencing some chest pain and I'd like to get it checked out.,Neutral
+"Sure, thank you.",Positive
+"Okay, I'll try that. But what if my account is locked out? How do I unlock it?",Neutral
+Sounds great. Thank you again.,Positive
+It's MEM123456.,Neutral
+"Yes, my phone number is 555-1234, and my insurance is Blue Cross Blue Shield.",Negative
+"Hi, I'm calling to request a pre-authorization for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.",Negative
+This is ridiculous. I know I wasn't supposed to pay that much. Can I speak to a supervisor?,Negative
+"It just says ""Invalid username or password"" but I'm pretty sure I'm entering the correct information.",Neutral
+"Yeah, I'm logged in now. Thank you so much for your help!",Positive
+"That's great, thank you so much for your help!",Positive
+"Okay, thank you. I appreciate your help.",Neutral
+"(frustrated) Look, can you just tell me who's available next Monday and let me decide?",Negative
+"You too, thank you!",Positive
+"(frustrated) Look, can you just tell me who's available next Monday and let me decide?",Negative
+Sounds good. Thanks again.,Positive
+(on hold for 2 minutes),Negative
+(hangs up),Negative
+"Okay, that sounds good. Can you also confirm the corrected copay amount will be reflected in my account?",Neutral
+"That's what I thought. So, what can be done about the charge I already paid?",Neutral
+"Okay, thank you. Is there anything else I need to do in the meantime?",Neutral
+"It was on January 10th, and it was for a physical therapy session.",Negative
+"Sure, no problem.",Positive
+"My email address is john.doe@example.com and my date of birth is March 12, 1980.",Positive
+"Okay, what's the new password?",Neutral
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson, and my member ID is MEM456789.",Negative
+"Alright, that sounds great. Thank you so much for your help in resolving this issue.",Positive
+"Sounds good, thank you.",Positive
+Okay.,Neutral
+"You too, thank you. Bye.",Positive
+It says that my account is pending approval.,Negative
+"I need to get an MRI done for my knee injury. My doctor's office is going to send over the request, but I wanted to call ahead to get it pre-authorized.",Negative
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"Okay, that sounds good. How long will that take?",Neutral
+It was a routine physical exam on January 10th.,Negative
+"Hi, I'm having some trouble registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"Okay, great. Thank you so much for your help. I really appreciate it.",Positive
+"Hi, I'm calling about a denied claim I received for a recent service. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+(hung up),Positive
+"Okay, that sounds good. Can you give me a reference number for this case so I can follow up if needed?",Neutral
+"Hi, I'm calling about a concern I have with my recent medical bill. My name is Emily Wilson and my member ID is MEM123456. I was charged a $50 copay for a doctor's visit, but I thought my policy covered that service with a $20 copay. Can you help me figure out what happened?",Negative
+"Okay, that sounds great. Thank you so much for your help so far!",Positive
+"Great, thank you. I appreciate it.",Positive
+"Great, thank you! I'll go check my email.",Positive
+"I've been experiencing some back pain and I'd like to see an orthopedic specialist. I've heard great things about Dr. Smith, but I'm also open to other recommendations.",Neutral
+I'm using Google Chrome.,Positive
+"No, that's all. Thank you for your help.",Negative
+"No, everything is still the same. (01:15)",Negative
+"My name is John Smith, and my date of birth is January 12, 1990.",Positive
+"Okay, that sounds reasonable. What's the next step in the process?",Neutral
+"Sure, I'll hold.",Neutral
+"No, that's all. Thank you.",Negative
+"No, that's all. Thanks.",Negative
+"(sighs) Fine. (pause) Okay, it's working now. But this has been a huge waste of my time.",Negative
+"Yes, of course. The service was for a physical therapy session, and the reason given was that it's not covered under my policy.",Neutral
+"Hi, I'm having some trouble registering and logging in to my online service account. My member ID is MEM456789.",Negative
+"No, that's all. Thank you again.",Negative
+Sure. I've been experiencing chronic knee pain for several years and my doctor has recommended a knee replacement surgery to alleviate the pain and improve my mobility.,Positive
+"Sure, thank you.",Positive
+I've never actually logged in successfully. This is my first time trying to register.,Negative
+"You too, bye!",Positive
+"I enrolled in 2018, and I have a silver plan.",Positive
+"No, that's all.",Negative
+"It just says ""Invalid username or password"" every time I try to log in. I've tried resetting my password multiple times, but it doesn't seem to be working.",Negative
+"My date of birth is March 12, 1985, and I'm looking to get pre-authorization for a knee surgery.",Positive
+That sounds great. Can you tell me a bit more about Dr. Smith and Dr. Johnson? What are their specialties within dermatology?,Positive
+"Great, thank you. What's the next step? Should I just wait to hear back from you?",Positive
+"I'm looking to see a dermatologist, and I was hoping to get in as soon as possible. Do you have any availability this week?",Neutral
+"That makes sense, I guess. I did switch policies about a month ago. Is there anything that can be done to fix this?",Neutral
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+It's jsmith@email.com.,Positive
+"No, I think that's all. Thank you again for your help.",Negative
+"Alright, thank you.",Positive
+"I've already tried that, but it didn't work. (00:30)",Negative
+That sounds great. Can you tell me a little bit about Dr. Smith?,Positive
+"That's great, thank you. How long will it take for the refund to be processed?",Neutral
+"Okay, that sounds good. Thank you for your help.",Neutral
+"Okay, what does that mean?",Neutral
+You're welcome. Thank you for your help.,Positive
+"Okay, let me try that. (pause) Hmm, it's not sending me a reset link. It says my email address is not recognized.",Neutral
+"No, that's all. Thank you so much for your help!",Positive
+It's jsmith@email.com.,Positive
+I'm looking for a dermatologist and I was thinking maybe next Wednesday or Thursday. Do you have any availability?,Negative
+"Oh, I see. Can you fix that and reprocess my claim?",Negative
+"No, that's all. Thank you again.",Negative
+"It just says ""invalid credentials"" when I try to log in. I've tried resetting my password, but it still doesn't work.",Negative
+It's MEM123456.,Neutral
+"The procedure code is 23456, and the date of service is scheduled for March 15th.",Negative
+"Alright, thank you so much for your help. I appreciate it.",Positive
+"Well, I actually switched to a new policy a few months ago, and as per the new policy, this service should be covered. I'm not sure why it was denied.",Neutral
+Bye.,Positive
+"Alright, thank you for your help.",Positive
+"Hi, I'm having trouble logging in to my online account. I'm trying to register, but it's not working. My member ID is MEM000123.",Negative
+"That's great news, thank you.",Positive
+It's MEM123456.,Neutral
+"No, that's all. Thank you so much for your help!",Positive
+"(angrily) No, that's all.",Negative
+"No, I understood everything. Thank you for checking in with me.",Negative
+"Yeah, that's fine. Thank you for your help so far.",Positive
+"Okay, let me do that. (pause) Okay, I've cleared everything. But I'm still getting the same error message.",Neutral
+"I'm using Google Chrome, version 91.",Positive
+"So, what's going to happen with my claim now?",Neutral
+I'm looking for a dermatologist. I've been having some skin issues and I'd like to get it checked out.,Neutral
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Hello, I'm calling about my recent doctor's visit. I was charged a $50 copay, but I thought my policy had a $20 copay for that service.",Negative
+I'm looking to get a knee replacement surgery. I've been experiencing a lot of pain and my doctor thinks this is the best course of action.,Positive
+"Okay, sounds good. Thank you for your help so far.",Neutral
+"Hi, I'm calling about a claim that was denied. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+"No, that's all. Thank you again for your help.",Negative
+That sounds great. I think I'd like to schedule with Dr. Johnson at 2:00 PM.,Positive
+"Hi, I am calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"No, that's all. Thank you.",Negative
+You too. Bye.,Positive
+"That makes sense, I guess. So, what can we do to fix this?",Neutral
+This is ridiculous. I know I wasn't supposed to pay that much. Can I speak to a supervisor?,Negative
+"Yes, I'm scheduled to undergo a knee replacement surgery on March 15th at Mercy Hospital. My doctor's name is Dr. Smith and the procedure code is 27447.",Negative
+"Hi, I'm calling about my recent copay for a service I received. I was charged $50, but I thought it was supposed to be $20 or maybe even no copay at all.",Negative
+"Okay, that sounds good. How long will it take to update the policy and reprocess the claim?",Neutral
+It's jsmith@email.com.,Positive
+"Hi, I'm having trouble logging in to my online account. I'm trying to register, but it's not working. My member ID is MEM000123.",Negative
+"No, that's all. Thank you again.",Negative
+My primary care physician is Dr. Johnson and I've been experiencing symptoms for about 6 months now.,Positive
+"No, that's all. Thank you again.",Negative
+"No, that's all. Thank you so much for your help!",Positive
+"Okay, I'll send it over. But can you at least waive the extra $30 I was charged?",Neutral
+"No, that's all. Thank you so much for your help!",Positive
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"That makes sense. So, what can be done to resolve this?",Neutral
+"Yes, of course. The claim was for a physical therapy session, and the denial letter said that my policy doesn't cover this service. But I'm certain that my new policy does cover it. I switched policies a few months ago.",Neutral
+"My date of birth is June 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"Hi, I'm having trouble logging in to my online account. I'm trying to register, but it's not working. My member ID is MEM000123.",Negative
+"Yes, I have access to my email.",Positive
+"No, that's all. Thank you.",Negative
+"Okay, that's fine. Can you tell me what the deductible amount is?",Neutral
+"Will do, thank you.",Positive
+It's MEM123456.,Neutral
+I switched policies about two months ago. I remember selecting the option that included coverage for the service I received.,Negative
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"Hi, I'm calling to get a case pre-authorized for a surgery I'm scheduled to have next week. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+I've never actually logged in successfully. This is my first time trying to register.,Negative
+"Okay, I've got it. But what if I don't get the reset email?",Neutral
+It's #CLM789012. I've already checked my policy and it says that the service is covered.,Neutral
+Okay... (pause) It says my email address is not recognized.,Neutral
+"Okay, thank you for clarifying that. And can you also provide me with a reference number for this issue?",Neutral
+"Hi, I'm calling to get a case pre-authorized for a upcoming medical procedure. My name is Emily Wilson and my member ID is MEM543210.",Negative
+"Sure, thank you.",Positive
+That sounds perfect. I'd like to schedule an appointment with Dr. Smith for Monday at 2 PM.,Positive
+That sounds great. Thank you for your help.,Positive
+"I'm not getting an error message. It just keeps taking me back to the login page. I've tried using my username and password, but it's not recognizing them.",Negative
+"Okay, that sounds good. Can you please give me the fax number?",Neutral
+"Alright, thank you for your help. I'll keep an eye on my email.",Positive
+"No, that's all. Thank you again.",Negative
+Sure thing.,Positive
+"Hi, I'm calling to get a case pre-authorized for a procedure I'm scheduled to have next week. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Yeah, my date of birth is March 12, 1990, and the last four digits of my payment method are 1234.",Negative
+You're welcome. Thank you for your help.,Positive
+"Oh, I wasn't aware of that. What does that mean for my coverage?",Negative
+"It just says ""Invalid username or password"" every time I try to log in. I've tried resetting my password multiple times, but it doesn't seem to be working.",Negative
+"That sounds great, actually. Can you tell me a bit more about Dr. Smith?",Positive
+"My new policy effective date is January 1st, and the date of service was January 15th.",Positive
+"Okay, I'll let them know. How long will it take to get a decision once you receive the information?",Neutral
+"No, that's all. Thanks again for your help!",Positive
+It's claim number CLM789012.,Negative
+"No, that's all. Thank you again.",Negative
+My name is Emily Wilson.,Positive
+"Hi, I'm calling about a denied claim I received for a service I had done last month. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+"No, that's all. Thank you.",Negative
+"The visit was on January 10th, and the provider's name is Dr. Smith.",Negative
+"No, that's all. Thank you again.",Negative
+"That sounds great, thank you. Yes, please go ahead and schedule it for Wednesday at 2 PM.",Positive
+"My date of birth is March 12, 1985, and the denied service was for a physical therapy session on January 10th.",Negative
+"Let me check... (pause) Yes, my current deductible balance is $500.",Negative
+"No, that's all. Thank you again.",Negative
+"Okay, that makes sense. Can you update the system and reprocess the claim?",Neutral
+"(pause) Yes, I'm in! Thank you so much for your help.",Positive
+"Hi, I'm calling about my recent copay charge. I was charged $50 for a doctor's visit, but I'm pretty sure I shouldn't have been charged that much.",Neutral
+"It's March 12, 1985.",Positive
+(skeptical) Okay... what's the temporary password?,Neutral
+"Okay, that's fine. How much is the deductible?",Neutral
+I'm scheduled to have a knee replacement surgery on March 15th. My doctor says I need to get pre-authorization before the procedure.,Neutral
+"Okay, that sounds good. But can you also confirm that the claim will be approved once the new policy information is updated?",Neutral
+"Okay, thank you for resolving this issue.",Neutral
+I think I'd like to see Dr. Smith on Tuesday at 2 PM.,Neutral
+"No, that's all.",Negative
+"Okay, that sounds great. I think I would like to schedule an appointment with Dr. Smith at 2:30 PM on Wednesday.",Neutral
+"Great, thank you.",Positive
+"The new policy effective date is March 1st, and the physical therapy sessions took place in April.",Positive
+"(pause) Yes, I'm in! I'm logged in to my account. Thank you so much for your help!",Positive
+"My doctor's name is Dr. Smith, and the MRI is scheduled at Mercy Hospital.",Positive
+It's claim number CLM789012.,Negative
+"Okay, that makes sense. But what can we do about the claim now?",Neutral
+My doctor's name is Dr. Smith and the facility is Mercy Hospital.,Positive
+"No, that's all. Thank you so much for your help!",Positive
+"Hi, I'm having trouble registering and logging in to my online service account. My member ID is MEM456789.",Negative
+"No, that's all. Thank you again.",Negative
+"Yes, I'm using the correct URL and I've double-checked my email address and password. I'm still having the same issue.",Neutral
+"Yes, my cell phone number is 555-123-4567.",Negative
+"I'm not seeing an error message, it just says my username and password are incorrect. But I'm positive I'm entering the correct information.",Neutral
+"Okay, great. Thank you so much for your help. I appreciate it.",Positive
+"Hmm, I'm not sure. Can you tell me a little bit more about Dr. Johnson's experience with acne treatment?",Neutral
+"Yes, I can do that. How long will it take to process the pre-authorization once you receive the information?",Neutral
+"I've already tried that. I've reset my password multiple times, but I still can't log in. And now I'm getting a message that says my account is locked.",Negative
+That's correct. Thank you again for your help.,Neutral
+"I actually recently switched to a new policy, which I thought covered physical therapy sessions. I'm not sure why it was denied. My new policy is a Platinum plan, and I switched to it last month.",Negative
+"I've already tried that, but it didn't work. (00:30)",Negative
+Bye.,Positive
+"Yes, that would be great, thank you!",Positive
+Thank you. You too.,Positive
+"It's a knee replacement surgery and it's scheduled for next Thursday, March 25th.",Neutral
+"Okay, I'll try that. But I'm not sure how to reset my password.",Neutral
+I've been experiencing some back pain and I'd like to see an orthopedic specialist. I was hoping to get an appointment as soon as possible.,Neutral
+Sounds good. How long will that take?,Positive
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"Ah, let me check. (pause) Yeah, I found an email from you guys, but it's from a few months ago. I don't think I signed up back then.",Negative
+"Okay, I'll hold.",Neutral
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Sure, thank you.",Positive
+"Hmm, that's a tough choice. Can you tell me a bit more about Dr. Johnson's experience with back pain?",Neutral
+"Yeah, that would be great. I've tried resetting it before, but maybe I did something wrong.",Neutral
+"No, that's all. Thank you for your help.",Negative
+"Let me check... (pause) Yes, I did get a blood test done during the visit.",Neutral
+"You too, thank you again!",Positive
+"No, that's all. Thanks again for your help!",Positive
+"(angrily) No, that's all.",Negative
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"Okay, I'll try that. (pause) Okay, I've cleared my cache and cookies. Still not working.",Neutral
+"Okay, thank you.",Neutral
+(pause) Okay... I'm in. Finally.,Neutral
+"I was thinking maybe sometime next week? I'm available Monday, Wednesday, or Friday.",Neutral
+"My date of birth is March 12, 1985, and the denied service was for a physical therapy session on January 10th.",Negative
+Sounds good. Thank you again for your help!,Positive
+It's MEM123456.,Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson, and my member ID is MEM123456.",Neutral
+"No, everything is still the same. (01:15)",Negative
+"Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+Goodbye.,Positive
+It was on January 15th and I had a follow-up appointment with my primary care physician.,Negative
+"Okay, that sounds good.",Neutral
+"Hi, my name is Emily Wilson and my member ID is MEM456789. I'm calling about a claim that was denied. I received a letter stating that my policy doesn't cover the service, but I'm certain that it should be covered under my new policy.",Negative
+"That sounds great, thank you. How will I know if everything is taken care of?",Positive
+"You too, bye!",Positive
+It's jsmith@email.com.,Positive
+"Okay, I'll try that. (pause) Yes, that worked! I'm logged in now. Thank you so much for your help!",Neutral
+I'm looking for a cardiologist and I was thinking maybe next Wednesday or Thursday.,Negative
+My member ID is MEM123456.,Positive
+"Hi, I'm calling about my recent visit to the doctor. I was charged a copay of $50, but I'm sure my policy says it's supposed to be $10.",Negative
+I need to see a cardiologist.,Neutral
+"Hi, I'm calling to get a case pre-authorized for a procedure I need to have done. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"Hi, I'm calling about a denied claim I received. My name is Emily Wilson, and my member ID is MEM456789.",Negative
+Thank you. You too.,Positive
+You too.,Positive
+"Sure, thank you.",Positive
+"You too, thanks.",Positive
+"Okay, understood. Thank you for letting me know.",Neutral
+"Okay, done.",Neutral
+Goodbye.,Positive
+"Hi, I'm calling about a denied claim I received for my recent medical service. I don't understand why it was denied when I've been paying my premiums on time.",Negative
+"It's MEM123456. But I want to mention that I recently switched policies, and I believe the new policy should cover this service.",Neutral
+I've never actually logged in successfully. This is my first time trying to register.,Negative
+"Oh, that makes sense. So, what can be done to fix this?",Neutral
+"No, that's all. Thank you again for your help. (02:30)",Negative
+"Well, when I try to register, it says that my email address is already in use. But I've never signed up for an account before. And when I try to log in, it says that my password is incorrect, but I know I'm entering it correctly.",Neutral
+"No, that's all. Thank you again.",Negative
+"No, that's all. Thank you.",Negative
+Goodbye.,Positive
+"No, that's it. Thanks for fixing the problem.",Neutral
+"No, that's all. Thank you again!",Negative
+(sighs) Just make sure the appointment is scheduled correctly.,Neutral
+"It was on January 10th, and it was for physical therapy. I've had this service covered before, but I recently switched to a new policy. I thought this new policy would cover it.",Neutral
+It's jsmith@email.com.,Positive
+You too. Bye.,Positive
+"(angrily) No, that's all.",Negative
+"Okay...I think I've done that before, but I'll try again. (pause) Okay, I've reset it. But I'm still getting the same error message.",Neutral
+"Hi, I'm calling about a denied claim. My name is Emily Wilson, and my member ID is MEM456789.",Negative
+"Okay, that sounds good. Can you please give me a reference number or something so I can follow up on the status of the claim?",Neutral
+"No, that's all. Thank you so much for your help.",Positive
+"No, that's all. Thanks again.",Negative
+"Okay, got it. And what's the parking situation like?",Neutral
+Sure thing.,Positive
+"Okay, I've done that. But now it's saying my account is locked.",Neutral
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but I thought my policy waived copays for primary care visits.",Negative
+"Hello, I'm having some trouble registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson, and my member ID is MEM123456.",Neutral
+"Yes, sure. Thank you.",Positive
+"You too, thank you.",Positive
+"Sounds good, thank you.",Positive
+"That makes sense, I guess. But how long will it take to get this updated and the claim approved?",Neutral
+"(pause) I've checked my spam folder, and it's not there either.",Negative
+"Yes, of course. I had a medical procedure done and I submitted a claim for it, but it was denied because the policy doesn't cover that service. However, I had switched to a new policy a few months ago and I'm pretty sure that this new policy does cover that service.",Neutral
+It's jsmith@email.com.,Positive
+"Hi, I'm calling about a denied claim I received for my recent medical service. I don't understand why it was denied when I've been paying my premiums on time.",Negative
+"That sounds great, thank you so much for your help. I really appreciate it.",Positive
+"No, that's all. Thank you.",Negative
+(angrily) Fine. Thank you for nothing.,Negative
+But I specifically asked for Dr. Smith. Why can't I get an appointment with him sooner?,Neutral
+"Great, thank you.",Positive
+My member ID is MEM123456.,Positive
+"Okay, let me try that. (pause) Okay, I've tried it in Firefox, but I'm still having the same issue.",Neutral
+"Okay, let me try... (pause) Yeah, it's still not working.",Neutral
+"Okay, thank you. I appreciate your help.",Neutral
+"That makes sense. So, what can be done to fix this?",Neutral
+"Okay, great. Thank you for your help.",Positive
+"I need to see a cardiologist, and I was thinking maybe next Wednesday or Thursday?",Negative
+"Let me check with my doctor's office real quick. (pause) Okay, the diagnosis code is 715.16, and the CPT code is 27447.",Neutral
+"It's August 12, 1985.",Negative
+"My doctor says I need to have the surgery to alleviate the pain and discomfort I've been experiencing in my knee. I've tried physical therapy and other treatments, but nothing seems to be working.",Negative
+"So, my new policy does cover the service, but because it's not in the system, the claim was denied?",Neutral
+I'd prefer to come in as soon as possible. How about tomorrow or the day after?,Neutral
+"Okay, I guess that's all I can ask for. Thank you for your help.",Neutral
+"Sounds good, thank you.",Positive
+"I'm available any time next week, Monday through Friday. Either morning or afternoon is fine.",Positive
+"Well, when I try to register, it says my email address is already in use. But I'm sure I've never created an account before. And when I try to log in, it says my password is incorrect.",Neutral
+"Hi, I'm calling about a claim I submitted that was denied. My name is Emily Wilson and my member ID is MEM123456. Can you help me with that?",Negative
+"But I had switched to a new policy a month ago, and as per the new policy, this service should be covered.",Neutral
+"Hi, I'm calling about a claim that was denied. The reason given was that my policy doesn't cover the service, but I'm certain it should be covered. My member ID is MEM123456.",Neutral
+"That sounds great, thank you! I think I'd prefer Dr. Smith on Wednesday. What time is the appointment?",Positive
+My primary care physician is Dr. Johnson and I've been experiencing symptoms for about 6 months now.,Positive
+"That sounds great, thank you so much for your help. I really appreciate it.",Positive
+"(pauses) Yeah, I'm still holding.",Positive
+"No, that's all. Thank you again.",Negative
+Thank you.,Positive
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+It's 02/12/1990.,Negative
+"I'm not sure, I just know I need to see someone about my knee pain.",Neutral
+Thank you. You too.,Positive
+"Yes, of course. The date of service was January 10th, and the reason for the denial was that my policy doesn't cover the service. However, I had switched to a new policy in December, and according to the new policy, the service should be covered.",Neutral
+"Hello, I'm calling about a denied claim I received for a recent medical service. I believe it was incorrectly denied as my new policy should cover it. My member ID is MEM123456.",Negative
+It's MEM123456.,Neutral
+"It's August 12, 1985.",Negative
+"Okay, I've received the email and reset my password. I'm able to log in now. Thank you for your help!",Neutral
+"Great, thank you for confirming. I appreciate it.",Positive
+"Okay, thank you. But can I ask, what's causing the issue with my registration?",Neutral
+"Sounds great, thank you so much for your help.",Positive
+"Okay, I've tried logging in and it says that my account is locked due to too many failed login attempts.",Neutral
+"Hi, I'm calling about a denied claim I received. My name is Emily Wilson, and my member ID is MEM456789.",Negative
+"Oh, that's great! Thank you so much for looking into this. Can you tell me how much I'll be refunded?",Positive
+"Alright, thank you for explaining and for your help.",Positive
+"It's Dr. Smith's office, and the facility is Mercy Hospital.",Positive
+"No, that's all. Thank you so much for your help!",Positive
+"Okay, I'll hold.",Neutral
+"That makes sense. I did receive a confirmation email about the policy change, but I guess it didn't get updated in the system.",Neutral
+"Hi, I'm calling about my recent visit to the doctor's office. I was charged a $50 copay, but I'm pretty sure my policy says it should be $20.",Neutral
+It was a routine check-up with my primary care physician on February 10th.,Neutral
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"Okay, thank you.",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"(pause) Okay, I've reset my password and tried logging in again, but I'm still getting the same error message.",Neutral
+"It's not loading correctly. When I try to log in, it just takes me back to the login page without giving me any errors.",Negative
+"Yes, that would be great. My phone number is 555-123-4567.",Neutral
+"Hi, I'm calling about my recent medical bill. I was charged a $50 copay for my doctor's visit, but I'm certain my policy says I shouldn't have to pay anything.",Negative
+"No, that's all. Thank you.",Negative
+Bye.,Positive
+"No, everything is still the same. (01:15)",Negative
+"My doctor says I need to have the surgery to alleviate the pain and discomfort I've been experiencing in my knee. I've tried physical therapy and other treatments, but nothing seems to be working.",Negative
+It's MEM543219.,Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"No, I think that's all.",Negative
+How long will this take?,Positive
+"It just says ""Invalid username or password"" every time I try to log in. I've tried resetting my password multiple times, but it doesn't seem to be working.",Negative
+"Hi, I'm calling about my recent doctor's visit. I was charged a $50 copay, but I thought my policy didn't have a copay for that service. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Hmm, I think I'm leaning towards Dr. Smith. But before I schedule, can you tell me if there are any additional fees for seeing a specialist?",Neutral
+"Okay, what kind of information do you need?",Neutral
+"No, that's all. Thank you again!",Negative
+It's MEM456789.,Positive
+"No, that's all for now. Thank you.",Positive
+"That's great, thank you. How long will it take to receive the reimbursement?",Positive
+"Okay... (pause) Yeah, I'm still getting the same error message.",Neutral
+"It just says ""invalid credentials"" when I try to log in. I've tried resetting my password, but it still doesn't work.",Negative
+"Hi, I'm calling to request a pre-authorization for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Thanks, bye.",Positive
+"Hi, I'm having trouble registering and logging in to my online service account. Can you help me?",Negative
+It's claim number #CLM789012.,Negative
+"Okay, I'll try again.",Neutral
+"My address is 123 Main St, Anytown, USA 12345.",Positive
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson, and my member ID is MEM123456.",Neutral
+"Oh, I see. So, what can be done to fix this?",Neutral
+"It's #2023-01-001. I received a denial letter stating that the service is not covered under my policy, but I had actually switched to a new policy that covers this service.",Negative
+But that's not what my policy says. I'm pretty sure it's supposed to be $20 or no copay.,Neutral
+"Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I thought my policy only required a $20 copay for that service.",Negative
+"It was on February 10th, and I had a routine check-up.",Negative
+How about next Wednesday afternoon?,Negative
+It was a routine check-up with my primary care physician on January 10th.,Negative
+"Okay, I'll try that. (pause) Okay, I've tried resetting it again, but it still says my username and password are incorrect.",Neutral
+Thanks again. Bye!,Positive
+"No, that's all. Thank you again for your help.",Negative
+"That's what I thought. So, why was I charged $50?",Negative
+"Hmm, I think I'd like to see Dr. Smith.",Neutral
+I'm available anytime after 2 PM.,Negative
+"Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I thought my policy didn't have a copay for that service.",Negative
+"Hi, I'm calling about my recent bill for the doctor's visit. I was charged a copay of $50, but I'm pretty sure my policy says it's supposed to be $20.",Negative
+"I've been experiencing some back pain and I'd like to see an orthopedic specialist. I've heard great things about Dr. Smith, but I'm open to seeing whoever is available.",Neutral
+That's frustrating. Can you tell me how much the deductible is and how much the procedure will cost?,Negative
+"Okay, that sounds good. Thank you for fixing this mistake.",Neutral
+"Okay, I think I'd like to see Dr. Smith. Can you schedule the appointment for me for Wednesday at 2 PM?",Neutral
+"Hi, I'm calling to get a case pre-authorized for a surgery I need to have done. My name is Emily Wilson and my member ID is MEM456789.",Negative
+"Okay, that sounds good. Is there anything else I need to do in the meantime?",Neutral
+I need to get a knee replacement surgery. My doctor has recommended it due to severe arthritis.,Neutral
+"Okay, thank you for your help. Can you provide me with a reference number for this issue?",Neutral
+"Yes, I switched policies about two months ago. I specifically chose the new policy because it covers the service that was denied.",Negative
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"My date of birth is March 12, 1985, and I'm looking to get a knee replacement surgery.",Positive
+That's ridiculous. I don't see why I should have to pay more than what my policy allows. Can I speak to a supervisor?,Negative
+"Yes, that would be great, thank you!",Positive
+"No, I think that's all. Thanks again for your help.",Negative
+You too!,Positive
+"No, that's all. Thank you again for your help.",Negative
+That sounds wonderful. Thank you for your help in resolving this issue. I really appreciate it!,Positive
+"Let me check... (pause) Ah, yes, I did receive an activation email.",Negative
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+That sounds good. Can you tell me a bit more about Dr. Smith's qualifications?,Positive
+"No, that's all. Thank you.",Negative
+"My email address is jsmith@example.com and my password is... (pauses, hesitant to share password) ...well, I'd rather not share it over the phone.",Negative
+Sure.,Positive
+Yeah.,Negative
+"No, that's all. Thank you again for your help.",Negative
+That sounds great. Can you tell me a bit more about both doctors?,Positive
+"Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"My date of birth is 02/12/1985, and the phone number is 555-1234.",Positive
+"The CPT code is 27447 and the estimated cost is around $15,000.",Negative
+"No, that's all. Thank you again for your help.",Negative
+"Yes. I went to see my primary care physician last week, and when I got the bill, I saw that I was charged $50 as a copay. But I've checked my policy, and it says that I shouldn't have to pay anything for primary care visits.",Negative
+"Okay, let me try that. (pause) I've cleared the cache and cookies, but I'm still getting the same error message.",Neutral
+It's MEM123456.,Neutral
+It's MEM123456.,Neutral
+"My doctor's name is Dr. Smith, and the surgery will be performed at Oakwood Hospital.",Positive
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but my policy says I shouldn't have to pay anything for this type of service.",Negative
+"Okay, I'll try that. (pause) Okay, I've cleared the cache and cookies. Let me try again. (pause) Nope, still getting the same error message.",Neutral
+Sounds good. Thank you again for all your help.,Positive
+"Sure, thank you.",Positive
+"Thank you, bye.",Positive
+"(angrily) No, that's all.",Negative
+I was thinking maybe next Wednesday or Thursday?,Negative
+It's jsmith@email.com.,Positive
+It was a routine physical exam on January 10th. My policy says I shouldn't have to pay anything for preventive care.,Negative
+It's johndoe@email.com.,Positive
+"My policy number is the same, MEM123456, and the surgery was on January 10th.",Negative
+Thank you.,Positive
+It's claim number CLM789012.,Negative
+"Hi, I'm calling about issues I'm having with registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"Okay, I appreciate that. Can you give me a reference number for this case so I can follow up?",Neutral
+"It just says ""invalid credentials"" or ""account not found."" I'm pretty sure I'm entering the right information, but I've tried a few different variations just in case.",Negative
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson, and my member ID is MEM234567.",Neutral
+"Oh, great! Thank you so much for your help. I really appreciate it. (02:10)",Positive
+"You too, thank you. Bye.",Positive
+"Yes. I went to see my primary care physician last week, and when I got the bill, I saw that I was charged $50 as a copay. But I've checked my policy, and it says that I shouldn't have to pay anything for primary care visits.",Negative
+"You too, thanks.",Positive
+"Hi, I'm calling about a denied claim I received. I'm very frustrated because I'm certain it should be covered. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+"I'm not getting an error message, but when I try to enter my username and password, it just doesn't recognize them. I've tried resetting my password, but that didn't work either.",Negative
+How do I check that?,Negative
+"Yeah, my caps lock is off, and I'm pretty sure I'm entering the correct credentials.",Neutral
+"No, that's all. Thank you again.",Negative
+"That would be great, thank you.",Neutral
+"Okay, that sounds good. How long will it take to get a final decision?",Neutral
+"Okay... (pause) Yeah, that worked! I'm in. Thank you so much!",Neutral
+"Okay, that's fine. Can you please tell me more about the out-of-pocket costs?",Neutral
+(angrily) What do you mean? I've already given you all the information you need. This is ridiculous.,Negative
+"That sounds great, thank you so much for your help! I appreciate it.",Positive
+"Okay, that's fine. Thank you.",Neutral
+"Hi, I'm having trouble registering and logging in to my online service account. My member ID is MEM456789.",Negative
+"Okay, sounds good. Thank you!",Neutral
+"Hi, I'm calling about a denied claim I received. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+"Okay, sure.",Neutral
+"You too, bye.",Positive
+"Okay, no problem.",Neutral
+"Alright, thank you for your help. I appreciate it.",Positive
+"My date of birth is March 12, 1985, and I'm looking to see a cardiologist.",Positive
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM456789.",Negative
+"Hi, I'm having some trouble registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"Sounds good, thank you.",Positive
+I'm using Google Chrome.,Positive
+"No, that's all. Thank you again.",Negative
+"You too, thank you.",Positive
+"Alright, thank you for your help.",Positive
+"Hi, I need to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"Oh, I didn't realize that. How do I complete the registration process?",Negative
+"Okay, that makes sense. So, what's the next step? Will I get a refund for the overpayment?",Neutral
+"That sounds great, thank you so much for your help! I appreciate it.",Positive
+"Okay... (pause) Yeah, I'm in now. But I'm having trouble registering for the service. It's not accepting my registration information.",Neutral
+It's jsmith@email.com.,Positive
+"No, that's all. Thank you again.",Negative
+"Thank you, you too. Bye.",Positive
+Thank you for the follow-up. I appreciate it.,Positive
+"Hi, I'm having trouble logging in to my online service account. My member ID is MEM123456.",Negative
+That sounds wonderful. Thank you for your help in resolving this issue. I really appreciate it!,Positive
+"Hi, I'm having trouble registering and logging in to my online service account. My member ID is MEM456789.",Negative
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+That's what I thought might have happened. Can you please update my policy and reprocess the claim?,Negative
+"Okay, that sounds good. What's the next step?",Neutral
+"My date of birth is 02/12/1985, and the phone number is 555-1234.",Positive
+"Okay, I think I'd like to schedule an appointment with Dr. Johnson on Thursday at 10 AM.",Neutral
+"My date of birth is March 12, 1985, and I'm scheduled for a knee replacement surgery on April 15th.",Neutral
+"Oh, that's great! Thank you so much for looking into this. Can you tell me how much I'll be refunded?",Positive
+"It says ""Invalid username or password."" But I'm positive I'm entering the correct information.",Neutral
+"No, that's all for now. Thank you again.",Positive
+Thanks again. Bye!,Positive
+Okay... Yes! I'm in! Thank you so much for your help!,Neutral
+"My date of birth is March 12, 1985, and the denied service was for a physical therapy session on January 10th.",Negative
+"Yes, that's correct.",Neutral
+"Okay, great. Thank you for your help.",Positive
+"Sure, it's CLM789012.",Neutral
+(firmly) See that you do.,Positive
+You too. Bye.,Positive
+My member ID is MEM123456.,Positive
+Thank you. Bye.,Positive
+Sounds good. Thanks for your help!,Positive
+Thank you. You too.,Positive
+"(pause) Okay, I've clicked on the link and followed the instructions. It says my account is now activated.",Neutral
+"No, that's all. Thank you again.",Negative
+"My new policy effective date is January 1st, and the service date was January 15th. I'm certain that the new policy covers this service.",Neutral
+"No, that's all. Thanks.",Negative
+You too. Bye.,Positive
+"You too, thank you. Bye.",Positive
+It's CLM789012.,Neutral
+"No, I think that's all.",Negative
+It was on February 10th and the provider was Dr. Smith.,Negative
+"I've already tried that, but it didn't work. I'm still having the same issue.",Negative
+"Great, just great. Thanks for nothing.",Positive
+Alright... Thank you for your help. I appreciate it.,Positive
+"Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+"Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.",Negative
+Okay... And what about the status of my claim? Will it be approved?,Neutral
+"Okay... (pause) Yeah, I'm still getting the error message that my password is incorrect.",Neutral
+The visit was on January 10th and the doctor's name is Dr. Smith.,Negative
+"My address is 123 Main Street, Anytown, USA 12345, and my phone number is 555-555-5555.",Positive
+"Okay, that sounds good. How long will it take to get this resolved?",Neutral
+"Well, I've tried to register a few times, but it keeps telling me that my email address is already in use. I'm not sure what to do.",Positive
+"Okay, I can do that. But can you also check if there's any errors on your end? Maybe something got misprocessed.",Neutral
+That makes sense. Can you please update my policy information and reprocess the claim?,Neutral
+"Yes, I've tried resetting my password twice, and I've even tried clearing my browser cache.",Negative
+"Great, thank you. What's the next step? Should I just wait to hear back from you?",Positive
+The doctor's name is Dr. Smith and the facility is Mercy Hospital.,Positive
+"Hi, I'm having trouble logging in to my online account. I'm trying to register, but it's not working. My member ID is MEM000123.",Negative
+"Hi, I need to schedule an appointment with a specialist. Can you help me with that?",Neutral
+"My date of birth is March 12, 1985, and my phone number is 555-123-4567.",Positive
+Will do. Thanks again.,Positive
+"(still upset) Fine. Thank you, I guess.",Neutral
+My member ID is MEM123456.,Positive
+"My date of birth is March 12, 1985, and I'm looking to get a knee replacement surgery.",Positive
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"Well, I've tried to register a few times, but it keeps telling me that my email address is already in use. I'm not sure what to do.",Positive
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM234567.",Neutral
+"(pause) Okay, I've tried registering again, and I'm still having trouble. I'm getting a different error message now.",Neutral
+"Okay, I think I'd like to schedule with Dr. Smith for Wednesday at 2 PM, but can you also put me on the waitlist for Dr. Johnson's 3 PM appointment, just in case?",Neutral
+"The date of service was January 10th, and the provider's name is Dr. Smith.",Negative
+The date of service was January 10th and it was for a physical therapy session.,Negative
+That sounds great. Can you tell me a bit more about Dr. Smith and Dr. Johnson? What are their specialties within dermatology?,Positive
+"Okay... (pause) Yeah, that worked! I was able to register successfully.",Neutral
+"Alright, thank you for your help.",Positive
+"Okay, I'll let my doctor's office know. How long will it take to get a decision on the pre-authorization?",Neutral
+"(pause) Okay, I've tried it on Firefox, and it's still not working.",Neutral
+"It's March 12, 1985.",Positive
+"No, that's all. Thank you again for your help.",Negative
+Thank you. Bye.,Positive
+"My email address is john.doe@example.com and my date of birth is March 12, 1980.",Positive
+It's 02/12/1990.,Negative
+"That's what I thought. So, what can be done to fix this?",Neutral
+The doctor's name is Dr. Smith and the facility is Mercy Hospital.,Positive
+"No, that's all. Thank you again.",Negative
+"Okay, I'll have him do that. How long will it take to process the pre-authorization once you receive the report?",Neutral
+"Okay, that sounds good. How long will it take to update the policy and reprocess the claim?",Neutral
+That makes sense. I did switch policies at the beginning of the year. Can you update my policy information and reprocess my claim?,Neutral
+"Sure, thank you.",Positive
+"Hi, I'm calling about issues with my online account. I'm having trouble registering and logging in. My member ID is MEM123456.",Negative
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"But that's not correct. I specifically made an appointment with Dr. Smith as my primary care physician. And even if it was a specialist visit, my policy says I shouldn't pay more than $30.",Negative
+"Yes, of course. I had a minor surgery last month and when I submitted the claim, it was denied saying that the policy doesn't cover this type of service.",Negative
+How do I check that?,Negative
+"It was on February 10th, and the provider was Dr. Smith.",Negative
+"Okay, that sounds good. And just to confirm, I won't have to pay the copay for any future primary care visits, correct?",Neutral
+"Sure, I'll hold.",Neutral
+"Okay, that sounds good. I appreciate your help with this.",Neutral
+Okay...,Neutral
+"Hi, I'm calling about my online service account. I'm having trouble registering and logging in. My member ID is MEM123456.",Negative
+"Okay, thank you.",Neutral
+"My phone number is 555-123-4567 and my address is 123 Main Street, Anytown, USA 12345.",Positive
+"Hi, I'm calling about my recent visit to the doctor. I was charged a copay of $50, but I'm sure my policy says it's supposed to be $10.",Negative
+Sure. I've been experiencing some issues with heavy bleeding and my doctor thinks it's best to remove my uterus to alleviate the symptoms.,Neutral
+My member ID is MEM456123 and the visit was on February 10th.,Positive
+"My date of birth is March 12, 1985, and I'm looking to see an orthopedic specialist.",Positive
+"That's strange, I signed up a few days ago. Is there anything I can do to speed up the process?",Neutral
+"Okay... (pause) Yeah, I'm still getting the same error message.",Neutral
+Okay.,Neutral
+"My policy number is PA1234567, and my primary care physician is Dr. Johnson.",Positive
+"Okay, that makes sense. How long will it take to update the information and reprocess the claim?",Neutral
+"Alright, thank you for explaining and for your help.",Positive
+I need to see a cardiologist. I've been experiencing some chest pains and my primary care physician recommended I see a specialist.,Neutral
+"Okay, I've done that. What's the next step?",Neutral
+"Okay, how long will that take?",Neutral
+"I'm not getting any error message. When I try to register, it just keeps saying that my account is already created, but when I try to log in, it says that my username or password is incorrect.",Negative
+"Yeah, it's #CLM789012. I'm really surprised it was denied because I know my new policy covers this service.",Negative
+"Okay, thank you.",Neutral
+It just says that my username and password are incorrect. But I'm sure I'm entering them correctly.,Neutral
+(sighs) Okay...,Neutral
+"Hi, I'd like to schedule an appointment with a specialist. My member ID is MEM123456.",Neutral
+"It's March 12, 1985.",Positive
+"Hi, I'm calling about my recent visit to the doctor's office. I was charged a copay of $50, but I thought my policy only had a $20 copay for that service.",Negative
+"Okay, got it. ISS001234. Thank you for your help.",Neutral
+"Great, thanks for that.",Positive
+"It's #2023-01-001. I received a denial letter stating that the service is not covered under my policy, but I had actually switched to a new policy that covers this service.",Negative
+(angrily) Fine. Just fix it.,Positive
+"No, that's all. Thank you so much for your help!",Positive
+(hangs up),Negative
+"Okay... (pause) Yes, that seems to have worked! I'm able to log in now.",Neutral
+"Yes, I received it. Thank you for checking in.",Positive
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+(hangs up),Negative
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson, and my member ID is MEM234567.",Neutral
+Sure.,Positive
+Alright... Thank you for your help. I appreciate it.,Positive
+"Hi, I'm calling about issues I'm having with my online service account. I'm trying to register and log in, but I'm running into some problems. My member ID is MEM456789.",Neutral
+"Oh, great! Thank you so much for looking into that for me.",Positive
+That sounds good. What time was the appointment again?,Neutral
+"Yes, of course. The claim was for a dental procedure that I had last month. I had switched to a new policy in January, and according to the policy documents, this type of procedure should be covered.",Neutral
+"I switched policies on January 1st. I was told that the new policy would cover the service I received, but the denial letter says it's not covered.",Negative
+"Yes, the service was on January 10th, and the denial reason is ""policy does not cover the service"". But like I said, I've switched to a new policy that started on January 1st, and I'm sure this service is covered under the new policy.",Negative
+"Okay, I'll call the automated system and see what it says. If it's locked out, I'll call back during business hours to get it unlocked.",Neutral
+"It's March 12, 1985.",Positive
+"No, that's all. Thank you for your help!",Negative
+Sounds good. Thank you again for all your help.,Positive
+"You too, bye.",Positive
+"(pauses) Yeah, I'm still holding.",Positive
+"No, that's all. Thank you again.",Negative
+"No, that's all. Thank you again for your help.",Negative
+"Okay, let me try that. (pause) Okay, I've cleared my cache and cookies. But I'm still getting the same error message when I try to register.",Neutral
+"No, I think that's all. Thanks again for your help.",Negative
+"Okay... (pause) Yeah, I'm still getting the same error message.",Neutral
+"Okay, I'll hold.",Neutral
+"I'm pretty flexible, but I was thinking maybe Wednesday or Thursday of this week?",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson, and my member ID is MEM123456.",Neutral
+Whatever.,Neutral
+"Sure, thank you.",Positive
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"No, that's all. Thank you again.",Negative
+"Yes, I have access to my email.",Positive
+"That sounds right. So, will I need to pay the deductible upfront?",Neutral
+"Hi, I'm calling about a denied claim I received for a recent medical service. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Sure, that's fine.",Neutral
+"I'm scheduled to undergo an MRI scan for a knee injury. My doctor's office has already submitted the request, but I wanted to confirm the status and ensure that it's covered under my plan.",Neutral
+"Sure, thank you.",Positive
+"Okay, I'm on the page now.",Neutral
+"No, that's all. Thank you for your help.",Negative
+(provides account information),Positive
+"You too, bye.",Positive
+"Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson, and my member ID is MEM456789.",Negative
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+That sounds great. I think I'd like to schedule with Dr. Smith next Wednesday at 10 am. Can you please confirm the appointment details?,Positive
+It's johndoe@example.com.,Neutral
+"Okay, that sounds good. When can I expect to hear back from you?",Neutral
+"Hi, I'm calling to request a case pre-authorization for a procedure I need to undergo. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+"Oh, I see. So, it's just a mistake on your end?",Negative
+"Okay, that sounds good. I just want to make sure I'm not being overcharged.",Neutral
+Sure.,Positive
+"(pause) Okay, that seems to be working now. Thank you for your help!",Neutral
+"You too, thank you!",Positive
+(frustrated) That's ridiculous. I switched policies over two months ago. How long does it take to update the system?,Negative
+"Hi, I'm calling about my recent copay for a doctor's visit. I was charged $50, but my policy says I shouldn't be paying more than $20 for a primary care visit.",Negative
+"When I try to register, it says my email address is already in use. But I've never registered before, and I'm sure I'm using the correct email address.",Neutral
+"It's March 12, 1985.",Positive
+"Sure, no problem.",Positive
+"My date of birth is March 12, 1985, and I'm scheduled to have a knee replacement surgery on April 15th.",Neutral
+"Hi, I'm having trouble logging in to my online service account. My member ID is MEM123456.",Negative
+"It's jsmith@email.com. But I've already tried using the ""forgot password"" option and it's not sending me a reset link.",Negative
+I'm available anytime after 2 PM.,Negative
+"No, that's all. Thank you again!",Negative
+"No, that's all. Thank you again.",Negative
+"You too, bye.",Positive
+"My name is Emily Wilson and my date of birth is March 12, 1985.",Positive
+"Great, just great. Thanks for nothing.",Positive
+"I'm not getting any error message. It just says ""processing"" and then nothing happens. I've tried multiple times, but I haven't been able to get past that point.",Negative
+"Yeah, when I try to log in, it says my username and password are incorrect. But I'm sure I'm entering the right information.",Negative
+It's #claim20230101.,Negative
+"I'm available anytime next week, preferably in the mornings.",Neutral
+"Hi, I'm having trouble registering and logging in to my online service account. My member ID is MEM456789.",Negative
+"Yes, my member ID is MEM123456 and the service was on February 10th.",Negative
+"Yes, that's correct.",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM654321.",Negative
+"Okay, that sounds good. How long will that take?",Neutral
+That sounds good. Can you tell me a bit more about Dr. Smith's qualifications?,Positive
+"Hi, I'm calling about a denied claim I received for a recent medical service. My member ID is MEM123456.",Negative
+Bye.,Positive
+"No, that's all. Thank you again.",Negative
+"No, that's all. Thank you again.",Negative
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Sure, thank you.",Positive
+"Yeah, that's fine. Thank you for your help so far.",Positive
+You too. Bye.,Positive
+"Okay, let me try that. (pause) Okay, I've tried logging in with Mozilla Firefox, but I'm still having the same issue.",Neutral
+"Great, thank you again for your help!",Positive
+"Hi, I'm back on the line. I just wanted to confirm that you've processed my pre-authorization request.",Negative
+"No, that's all. Thank you again.",Negative
+I think I'd like to schedule with Dr. Johnson on Thursday at 10 AM.,Neutral
+"You too, thank you!",Positive
+What kind of information do you need?,Neutral
+"That sounds great, thank you! I think I'd prefer Dr. Smith on Wednesday. What time is the appointment?",Positive
+"No, that's all. Thank you again.",Negative
+"That's what I thought. I've been with this insurance company for years, and I've never had to pay for a check-up before.",Positive
+"Okay, that sounds good. How long will it take to get this updated?",Neutral
+That's not good enough. I want this resolved now. Can you just waive the extra $30?,Negative
+"(pauses) Okay, I'm logged in now. But this is really frustrating. I shouldn't have had to call technical support just to log in to my account.",Negative
+I was thinking sometime next week. Do you have any availability on Wednesday or Thursday?,Negative
+Will do. Thanks again for your assistance.,Positive
+"That's great, thank you. How long will it take to receive the reimbursement?",Positive
+The procedure code is 23456 and the estimated date of the surgery is March 25th. My doctor's office said that I need to get pre-authorization before the surgery can be scheduled.,Negative
+"Yes, I received it. Thank you for checking in.",Positive
+"Alright, that sounds good. Thank you for your help.",Positive
+"Okay... (pause) Nope, still not working.",Neutral
+I'm scheduled to have a knee arthroscopy next week and I want to make sure it's covered.,Neutral
+My doctor's name is Dr. Smith and the surgery is scheduled for April 15th.,Negative
+"Alright, I've reset my password. Let me try logging in again.",Neutral
+"It's March 12, 1985.",Positive
+My doctor's name is Dr. Smith and the hospital is Mercy General Hospital.,Positive
+"Hmm, I'm not sure. Can you tell me a bit more about Dr. Smith?",Neutral
+"You too, thank you again. Bye.",Positive
+"Okay, thank you for trying to help me.",Neutral
+"It's scheduled for next Wednesday, the 15th.",Neutral
+"Okay, done.",Neutral
+I'm available anytime after 2 PM.,Negative
+What kind of additional information?,Neutral
+"Okay, thank you.",Neutral
+That sounds great. Can you tell me a bit more about Dr. Smith and Dr. Johnson? What are their specialties?,Positive
+"Will do, thank you.",Positive
+"Oh, that makes sense. Thank you so much for looking into this!",Positive
+"My address is 123 Main St, Anytown, USA 12345.",Positive
+"Great, thank you so much! I appreciate your help.",Positive
+"Okay, that sounds about right. Can you please go ahead and pre-authorize the case for me?",Neutral
+(angrily) A miscommunication? That's not my problem. I need this resolved now.,Negative
+"I need to see a cardiologist. I'm available anytime next week, but preferably on Wednesday or Thursday.",Neutral
+Thanks again.,Positive
+"Yes, of course. I had a minor surgery last month and when I submitted the claim, it was denied saying that the policy doesn't cover this type of service.",Negative
+I'm looking to see a cardiologist. I've been experiencing some chest pain and I want to get it checked out.,Neutral
+Goodbye.,Positive
+"My date of birth is March 12, 1985, and I'm looking to see an orthopedic specialist.",Positive
+"I need to get an MRI done for a knee injury. My doctor's name is Dr. Smith, and he's affiliated with General Hospital.",Positive
+"You too, bye!",Positive
+Thanks again for your help!,Positive
+You too.,Positive
+"I need to get an MRI done for a knee injury. My doctor's name is Dr. Smith, and he's affiliated with General Hospital.",Positive
+"My doctor's name is Dr. Smith, and the procedure code is XYZ123.",Positive
+"Sure, no problem.",Positive
+"Okay, that sounds good. How long will it take to resolve this?",Neutral
+"Alright, thank you very much for your help. I appreciate it.",Positive
+"Okay, thank you. I appreciate your help.",Neutral
+It's #claim20230101.,Negative
+"Hello, I'm having trouble logging in to my online service account. I'm getting an error message that says my username and password are incorrect. My member ID is MEM123456.",Negative
+"Yeah, my policy number is MEM123456, and the date of service was January 10th.",Negative
+"Hi, I'm trying to register and log in to my online service account, but I'm having some issues. My member ID is MEM123456.",Neutral
+"The new policy effective date is March 1st, and the physical therapy sessions took place in April.",Positive
+"Okay, got it. And what's the next step in the process?",Neutral
+"No, that's all. Thank you for your help!",Negative
+"Hi, I'm having some trouble registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"Hi, I'm calling about a claim that was denied. I received a letter saying that my policy doesn't cover the service, but I'm pretty sure it should be covered. My member ID is MEM123456.",Negative
+That's frustrating. Can you tell me how much the deductible is and how much the procedure will cost?,Negative
+"Thank you, you too!",Positive
+"No, that's all. Thank you again for your help.",Negative
+It was on February 10th.,Negative
+"Okay, that sounds good. How much is the deductible and how much will I need to pay out of pocket?",Neutral
+Finally. Thank you. How long will it take to process the payment?,Positive
+"No, that's all. Thank you again!",Negative
+(sighs) Fine.,Positive
+"No, that's all. Thanks again.",Negative
+That sounds great. But I was really hoping to see a female doctor.,Neutral
+"Okay, that sounds great. Thank you so much for your help so far!",Positive
+"Oh, great! Thank you so much for your help. I really appreciate it. (02:10)",Positive
+"That's what the letter said, but I had switched to a new policy before I received the service, and I'm certain it's covered under the new policy.",Neutral
+Bye!,Positive
+"(pauses) Yeah, I'm still holding.",Positive
+"That makes sense, but why wasn't my policy updated in the system?",Neutral
+"Okay, sounds good. But what about preventing this from happening in the future? I don't want to have to call every time I receive a bill.",Neutral
+The visit was on January 10th and the doctor's name is Dr. Smith.,Negative
+"You too, thank you!",Positive
+It's jsmith@email.com.,Positive
+Thank you again. I'll wait to hear back from the claims team.,Positive
+"It was on January 10th, and the doctor's office was Smith Family Medicine.",Negative
+My member ID is MEM123456.,Positive
+"Hi, I'm having trouble registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"It just says ""Invalid username or password"" every time I try to log in. I've tried resetting my password multiple times, but it doesn't seem to be working.",Negative
+But I'm looking at my policy documents right now and it says that I shouldn't have to pay anything for a follow-up visit.,Neutral
+(on hold for 2 minutes),Negative
+"Okay, sure.",Neutral
+Sure.,Positive
+"No, that's all. Thank you again.",Negative
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but I thought my policy waived copays for primary care visits.",Negative
+Yeah... I've been experiencing some back pain and my doctor says I need a herniated disc surgery. I've already had an MRI and everything.,Negative
+"I need to see a cardiologist. I'm pretty flexible, but I was thinking maybe sometime next week?",Neutral
+"You too, thank you again!",Positive
+My doctor's name is Dr. Smith and the procedure will be performed at Mercy Hospital.,Positive
+"No, that's all. Thank you so much for your help!",Positive
+My doctor's name is Dr. Smith and the surgery is scheduled at Mercy Hospital.,Positive
+Sure.,Positive
+"It was on January 10th, and the doctor's office was Smith Medical Group.",Negative
+"You too, bye.",Positive
+"You too, thank you!",Positive
+"Okay, that's fine. How long will it take to get a decision?",Neutral
+"Okay, I was aware of that. But I was told by my doctor's office that the procedure would be covered.",Neutral
+"Okay, let me try that. (pause) Ah, yes! I'm in! Thank you so much for your help!",Neutral
+"Sure, thank you.",Positive
+"But that's not what my policy says. I have a copy of my policy right here, and it says that I only have to pay $20 for that service.",Negative
+"Yeah, that's fine. Thank you for your help so far.",Positive
+"Sure, I'll hold.",Neutral
+"No, that's all for now. Thanks again.",Negative
+"No, that's all. Thank you again for your help.",Negative
+"Hello, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Yes, that's what the denial letter said. But I had switched my policy recently, and the new policy should cover this service.",Neutral
+"Hi, I'm having trouble registering and logging in to my online service account. My member ID is MEM123456.",Negative
+I switched policies on January 1st of this year.,Negative
+"Hi, I'm back on the line again. I just wanted to check on the status of my pre-authorization request.",Negative
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but I thought it was supposed to be $20 according to my policy.",Negative
+"Okay, that's fine. Can you please let me know what the estimated out-of-pocket costs are?",Neutral
+"It's March 12, 1985.",Positive
+Bye!,Positive
+"That sounds great, thank you! I think I'd prefer Dr. Smith on Wednesday. What time is the appointment?",Positive
+"Hi, I'm calling about my recent visit to the doctor's office. I was charged a copay of $50, but I thought my policy only had a $20 copay for that service.",Negative
+"Great, just great. Thanks for nothing.",Positive
+"Hi, I'm calling about my recent visit to the doctor's office. I was charged a copay of $50, but I'm certain my policy says I shouldn't have to pay anything for that service.",Negative
+That's what I thought. So why did I get charged $50?,Negative
+I need to see a cardiologist. I'd like to schedule it for next Wednesday or Thursday.,Neutral
+"My date of birth is March 12, 1985, and I'm looking to get pre-authorization for a knee surgery.",Positive
+"My primary care physician's name is Dr. Johnson and my current address is 123 Main Street, Anytown, USA 12345.",Positive
+"Hi, I'm calling about a concern I have with my recent medical bill. My name is Emily Wilson and my member ID is MEM123456. I was charged a $50 copay for a doctor's visit, but I thought my policy covered that service with a $20 copay. Can you help me figure out what happened?",Negative
+Thank you. Bye.,Positive
+"No, that's all. Thanks again.",Negative
+"The procedure code is 23456, and the date of service is scheduled for March 15th.",Negative
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"Great, thank you again for your help!",Positive
+"No, that's all. Thanks.",Negative
+"No, that's all. Thank you so much for your help!",Positive
+"Hi, I'm calling to get a case pre-authorized for a procedure I'm scheduled to have next week. My name is Emily Wilson and my member ID is MEM123456.",Negative
+Dr. John Smith at Mercy Hospital.,Positive
+"Well, when I try to register, it says my email address is already in use. But I've never registered before. And when I try to log in, it says my password is incorrect.",Negative
+My policy number is POL987654 and the visit was on February 10th.,Positive
+"It's MEM123456, and the date of service was January 10th.",Negative
+"Ah, I found it. I'll activate my account now.",Negative
+"Okay, that sounds good. What's the next step?",Neutral
+"My doctor's name is Dr. Smith, and the surgery will be at Oakwood Hospital.",Positive
+"Okay, thank you. How long will it take to get a decision?",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM012345.",Neutral
+That's frustrating. Can you help me get this resolved?,Negative
+"Hello, I'm having trouble logging in to my online service account. I'm getting an error message that says my username and password are incorrect. My member ID is MEM123456.",Negative
+"Well, I'm trying to register for the first time, but it keeps saying that my member ID is invalid. I've double-checked that I've entered it correctly.",Neutral
+It's johndoe@email.com.,Positive
+"Great, thank you so much for your help.",Positive
+"Okay, I've got the email. Let me just click on the link... (pause) Okay, I've reset my password.",Neutral
+"Great, thank you. Is there anything else I need to do?",Positive
+"Sure, thank you.",Positive
+"My name is Emily Wilson, and my date of birth is March 12, 1985.",Positive
+"No, that's all. Thank you again for your help. You've been very patient and helpful.",Positive
+"(angrily) This is ridiculous. I'm going to have to call back next week to follow up on this, aren't I?",Negative
+"(pauses) Yeah, I'm still holding.",Positive
+(angrily) Fine. Just fix it.,Positive
+"No, that's all. Thank you so much for your help!",Positive
+That sounds perfect. I'd like to schedule an appointment with Dr. Smith for Monday at 2 PM.,Positive
+"Yes, I have access to my email.",Positive
+Alright... Thank you for your help. I appreciate it.,Positive
+"(pause) I've checked my spam folder, and it's not there either.",Negative
+"Yeah, sure.",Neutral
+"Sure, I'll hold.",Neutral
+Sounds good. Thank you for your help in resolving this issue.,Positive
+"That would be great, thank you.",Neutral
+"Okay, that sounds good. Thank you for your help.",Neutral
+"No, that's all.",Negative
+"My name is Emily Wilson, and my date of birth is March 12, 1985.",Positive
+"That's what I thought. So, what can be done to correct this and get the claim approved?",Neutral
+"Okay, I understand. Thank you for your help.",Neutral
+"Sure, thank you.",Positive
+"No, that's all. Thank you for your help.",Negative
+Sounds good. Thanks again.,Positive
+"(pauses) Yeah, I'm still holding.",Positive
+"Okay, let me try. (pause) Yeah, it looks like I'm able to register now! Thank you so much for your help!",Neutral
+"No, I think that's all. Thanks again for your help.",Negative
+"No, that's all. Thank you again for your help.",Negative
+"Yes, my phone number is 555-1234, and my insurance is Blue Cross Blue Shield.",Negative
+"You too, thank you. Bye.",Positive
+"Okay, I've tried logging in and it says that I need to enter a verification code sent to my email address.",Neutral
+That's frustrating. Can you tell me how much the deductible is and how much the procedure will cost?,Negative
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Rachel Kim.",Positive
+You too. Bye.,Positive
+"(pause) No, I haven't received the email.",Negative
+"That sounds good. So, is the case pre-authorized?",Neutral
+"Hi, I'm calling about a denied claim I received. My name is Emily Wilson, and my member ID is MEM456789.",Negative
+"Okay... but I'm not sure what my username is. I've been trying to log in with my member ID, but it's not working.",Neutral
+"Okay, sounds good. Is there anything else I need to do?",Neutral
+"That's what I thought. I've been with this insurance company for years, and I've never had to pay for a primary care visit before.",Positive
+Okay... (pause),Neutral
+You too. Bye.,Positive
+I've been experiencing some back pain lately and I'd like to see an orthopedic specialist.,Neutral
+My doctor's name is Dr. Smith and the facility is Springdale Hospital.,Positive
+"Okay, let me try that. (pause) Okay, I've cleared the cache and cookies. But I'm still getting the same error message.",Neutral
+"It was yesterday, and I had a routine check-up.",Positive
+"Hi, I'm calling to request a pre-authorization for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.",Negative
+It's MEM123456.,Neutral
+I don't know...I've never seen either of them before. Can you tell me more about them?,Neutral
+"Hi, I'm calling about my recent visit to the doctor. I was charged a copay of $50, but I'm certain my policy says I shouldn't have to pay anything for that service.",Negative
+My name is Emily Wilson.,Positive
+Sure.,Positive
+"My date of birth is March 12, 1985, and I'm scheduled for a knee replacement surgery.",Positive
+Finally. It's about time someone listened to me.,Positive
+"That's great, thank you! I think I'd like to schedule with Dr. Johnson on Friday at 10 AM.",Positive
+"My primary care physician's name is Dr. Johnson and my current address is 123 Main Street, Anytown, USA 12345.",Positive
+"You too, thank you.",Positive
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson, and my member ID is MEM123456.",Neutral
+"My date of birth is March 12, 1985, and I'm scheduled to have a hysterectomy on March 20th.",Negative
+Bye!,Positive
+"Will do, thank you.",Positive
+"Okay, I think I'd like to go with Dr. Smith then. Can you schedule the appointment for me?",Neutral
+"Hi, I'm calling about my online service account. I'm having some trouble registering and logging in. My member ID is MEM123456.",Neutral
+Thank you. Bye.,Positive
+"My date of birth is March 12, 1985, and my contact number is 555-1234.",Positive
+"I'm not getting an error message. It just keeps taking me back to the login page. I've tried using my username and password, but it's not recognizing them.",Negative
+(sighs) Fine...,Positive
+"No, that's all. Thank you again.",Negative
+"It says ""Invalid username or password."" But I'm positive I'm entering the correct information.",Neutral
+"I'm available any time next week, Monday through Friday. Either morning or afternoon is fine.",Positive
+"Great, thank you. Is there anything else I need to do?",Positive
+"( pause ) Yes, I'm still holding.",Positive
+"Okay, that makes sense. I did try to log in a few times before calling.",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My member ID is MEM123456.",Neutral
+That's a bit later than I was hoping for. Can you check if there are any other options?,Neutral
+"My date of birth is March 12, 1985, and my contact number is 555-1234.",Positive
+"It was on February 10th, and the doctor's name is Dr. Smith.",Negative
+"Okay, I'll try that. (pause) Alright, I've cleared my cache and cookies. Let me try logging in again. (pause) Still not working.",Neutral
+"Okay, sounds good. Thanks.",Neutral
+That sounds great. I think I'd prefer Dr. Smith on Wednesday at 2 PM.,Positive
+Thank you. You too.,Positive
+"Alright, thank you for your help in resolving this issue.",Positive
+"Hi, I'm calling to request a case pre-authorization for a procedure I need to undergo. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+"Yes, of course. I received a denial letter stating that the service is not covered under my policy. However, I had recently switched to a new policy, and as per the new policy, the service should be covered.",Neutral
+"Okay, I'll try. (pause) Yes, I'm able to log in now. Thank you so much for your help!",Neutral
+"Wait, can you tell me what's the cancellation policy if I need to cancel the appointment?",Negative
+"No, that's all. Thank you again!",Negative
+"Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I'm sure my policy says it's supposed to be $20 or maybe even no copay at all.",Negative
+"Okay, I'll hold.",Neutral
+"Okay, sure.",Neutral
+Sure. I've been experiencing chronic knee pain for several years and my doctor has recommended a knee replacement surgery to alleviate the pain and improve my mobility.,Positive
+"Ah, great! Thank you for letting me know. I'll keep an eye out for that email.",Positive
+"Thank you, you too! Bye!",Positive
+"No, that's all. Thanks again.",Negative
+Sounds good. How long will that take?,Positive
+I was thinking maybe next Wednesday?,Negative
+"Hi, I'm having some trouble registering and logging in to my online service account. Can you help me?",Neutral
+"Alright, thank you.",Positive
+"Hi, I'm calling about my recent bill for the doctor's visit. I was charged a copay of $50, but I'm pretty sure my policy says it's supposed to be $20.",Negative
+"My date of birth is March 12, 1985, and I'm looking to get pre-authorization for a knee replacement surgery.",Positive
+"Great, thank you so much for your help!",Positive
+It's claim number #CLM789012.,Negative
+I switched policies on December 1st. I was told that the new policy would cover the service I received.,Negative
+"You too, goodbye.",Positive
+"Okay, that's fine. What else do you need from me?",Neutral
+"I'm not getting any error messages, but when I try to log in, it just says ""invalid credentials"" and won't let me in. I've tried resetting my password, but that doesn't work either.",Negative
+"Hi, I'm calling to get a case pre-authorized for a medical procedure I need to undergo. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Alright, thank you for looking into this. I appreciate it.",Positive
+"(frustrated) Wait, why did it take so long to schedule an appointment? I've been on hold for over 5 minutes already!",Negative
+Sounds good. Thanks again.,Positive
+"The procedure code is 23456, and the date of service is scheduled for March 15th.",Negative
+"Okay, I'm on the login page now. I've entered my username and password.",Neutral
+"(hesitant) No, that's all. Thanks, I guess.",Negative
+"Okay, thank you for your help. I appreciate it.",Neutral
+"Okay, what kind of information do they need to provide?",Neutral
+"Okay, thank you.",Neutral
+"Okay, I've checked my spam folder and I found the email. I've entered the verification code and I'm able to log in now. Thank you for your help!",Neutral
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a $50 copay, but I'm pretty sure my policy says I only have to pay $20 for that service.",Negative
+My doctor's name is Dr. Smith and the surgery is scheduled for April 15th.,Negative
+Thank you.,Positive
+"No, that's all. Thank you.",Negative
+"My doctor's name is Dr. Smith, and the surgery is scheduled for April 15th.",Neutral
+"My date of birth is March 12, 1985, and I need pre-authorization for a knee surgery.",Positive
+"Alright, that sounds good. So, is my case pre-authorized?",Neutral
+"Hi, I'm trying to register and log in to my online service account, but I'm having some trouble. My member ID is MEM123456.",Neutral
+That makes sense. What can be done to resolve this issue?,Neutral
+"Sure, thank you.",Positive
+"I did try resetting my password earlier, but I'm not sure if I did it correctly. Can you walk me through it again?",Neutral
+"Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I thought my policy covered that service with a $20 copay.",Negative
+My doctor's name is Dr. Smith and the facility is Springfield Hospital.,Positive
+That's wonderful news! Thank you so much for your help and for resolving this issue.,Positive
+It's CLM789012.,Neutral
+It's Ms. Johnson.,Positive
+"Hi, I'm calling about a denied claim I received. I'm very frustrated because I'm certain it should be covered. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+"No, that's all. Thank you.",Negative
+"No, that's all. Thank you again.",Negative
+"It's MEM123456, and the date of service was January 10th.",Negative
+"I'm available anytime next week, preferably on a Tuesday or Wednesday.",Neutral
+"Alright, thank you very much for your help. I appreciate it.",Positive
+"No, that's all. Thank you again for your help. You've been very patient and helpful.",Positive
+(sighs) Fine. I've reset it again. But I'm still getting the same error message.,Neutral
+"My email address is johndoe@example.com, and my date of birth is March 12, 1990.",Positive
+It's MEM123456.,Neutral
+I'm looking to see a cardiologist and I'm available next Wednesday or Thursday.,Positive
+"Alright, that sounds good. But can you confirm that the service will be covered under my new policy?",Neutral
+"Okay, that sounds good. I'll call back tomorrow then.",Neutral
+"Hi, I'm having trouble registering and logging in to my online service account. Can you help me?",Negative
+That's what I thought! I was surprised to see the charge on my bill.,Neutral
+"Ah, great! Thank you for letting me know. I'll keep an eye out for that email.",Positive
+"No, that's all. Thank you again.",Negative
+"Okay, I'll try that. (pause) I've reset my password, but I'm still having trouble logging in.",Neutral
+"Great, thanks for that.",Positive
+"Okay, I'll try that. (pause) That didn't work either.",Neutral
+"No, that's all. Thank you.",Negative
+Okay... it's still not working.,Neutral
+"That's a good idea. I'll try resetting my password now. (pause) Okay, I've reset my password, but I'm still having trouble logging in.",Neutral
+"You too, bye!",Positive
+"Ah, yeah! I had forgotten about that. Let me check my email real quick. (pause) Okay, I've got the code. But how do I enter it?",Neutral
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a $50 copay, but I thought my policy covered that service with no copay.",Negative
+"No, that's all. Thank you for your help!",Negative
+"Hi, I'm having some trouble logging in to my online account. My member ID is MEM123456.",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+Sure.,Positive
+"I'm pretty flexible, but I was thinking maybe sometime next Wednesday or Thursday?",Neutral
+"No, that's all. Thank you for your help!",Negative
+"It's March 12, 1985.",Positive
+It's MEM123456.,Neutral
+"It just says ""invalid username or password"" but I'm sure I'm entering the correct information.",Neutral
+"That makes sense. So, what can be done to fix this?",Neutral
+"Okay, got it. Thank you for letting me know.",Neutral
+"Okay, got it. Thank you for your help.",Neutral
+"That's great, thank you! How long will it take to receive the refund?",Negative
+"No, that's all. Thank you.",Negative
+"(pause) I've checked my spam folder, and it's not there either.",Negative
+"It was on February 10th, and it was a routine check-up.",Negative
+"I'm not getting any error message, but it's just not recognizing my username and password. I've tried multiple times, but it keeps saying my credentials are incorrect.",Negative
+"Okay, so it's not resolved yet?",Neutral
+"That sounds great, thank you. Yes, please go ahead and schedule it for Wednesday at 2 PM.",Positive
+"Okay, let me try that. (pause) I've cleared my cache and cookies, but I'm still getting the same error messages.",Neutral
+"(sighs) Fine, I'll take the 2 pm with Dr. Johnson.",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"No, that's all. Thank you.",Negative
+Sure.,Positive
+"Thanks again, you too!",Positive
+"When I try to register, it says my email is already in use. But I'm positive I've never registered before. And when I try to log in, it says my password is incorrect, but I'm sure I'm using the right one.",Neutral
+"Okay, that sounds good. How long will it take to resolve this?",Neutral
+"No, that's all.",Negative
+"Okay, that sounds great. How long will it take to receive the refund?",Neutral
+"Sure, thank you.",Positive
+"No, everything is still the same. (01:15)",Negative
+"Great, thank you so much! I really appreciate your help.",Positive
+"Oh, that's great! Thank you so much for looking into this. Can you tell me how much I'll be refunded?",Positive
+"Yes, of course. I recently switched to a new policy, but the claim for my physical therapy sessions was denied, saying that the service is not covered under my policy. However, I've reviewed my new policy, and it clearly states that physical therapy is covered.",Neutral
+"Sure, I'll hold.",Neutral
+"Okay, thank you.",Neutral
+This is ridiculous. I know I wasn't supposed to pay that much. Can I speak to a supervisor?,Negative
+"No, that's all. Thanks again for your help!",Positive
+"(pause) No, I haven't received the email.",Negative
+It was on February 10th and the provider was Dr. Smith.,Negative
+"Okay, I've cleared my cache and cookies. But I'm still getting the same error message.",Neutral
+That sounds great. Can you tell me a bit more about Dr. Smith and Dr. Johnson? What are their specialties?,Positive
+"Okay... (pause) Yeah, I'm getting the same error message. And my email address is jsmith@email.com.",Neutral
+"Sure, go ahead.",Positive
+But I'm certain my policy says $20 copay for specialist visits.,Neutral
+"No, that's all. Thank you so much for your help. I really appreciate it.",Positive
+Unbelievable. I've wasted 10 minutes of my time already. Can you at least give me a case number or something so I can reference this conversation?,Negative
+I'm looking to see a cardiologist. I've been experiencing some chest pain and my primary care physician recommended I see a specialist.,Neutral
+"I'm not getting any error message, but when I try to register, it says my account already exists, and when I try to log in, it says my credentials are incorrect.",Negative
+"Okay... but I've already tried that, and it's not working.",Neutral
+"Okay, that sounds good. How long will it take to get this resolved?",Neutral
+It was a routine physical exam on January 10th. My policy says I shouldn't have to pay anything for preventive care.,Negative
+"I'm not getting any error message, but when I try to register, it says my account already exists, and when I try to log in, it says my credentials are incorrect.",Negative
+"Yeah, I'm logged in now. Thank you so much for your help!",Positive
+"Great, thanks for that.",Positive
+"Okay, that sounds right. I could have sworn my policy said $0 copay.",Neutral
+You too.,Positive
+(angrily) Fine. Thank you for nothing.,Negative
+"Hi, I'm calling about my recent visit to the doctor's office. I was charged a copay of $50, but I thought my policy only had a $20 copay for that service.",Negative
+"Okay, that sounds reasonable. And will I need to do anything on my end?",Neutral
+"You too, thank you!",Positive
+"Yeah, I've tried that already. My username is jsmith123 and my password is... (pauses for security reasons).",Negative
+"Sure, I'll hold.",Neutral
+It was a dental procedure on January 10th. And I'm certain that my new policy covers dental services.,Neutral
+My member ID is MEM123456.,Positive
+"Okay, sure.",Neutral
+"Okay, I'll hold.",Neutral
+I'm looking for a dermatologist. I've been having some skin issues and I'd like to get it checked out.,Neutral
+"It's March 12, 1985.",Positive
+"Okay, sure. (01:30)",Neutral
+"Okay, thank you. But I'm still not sure why this happened in the first place.",Neutral
+"Alright, thank you for your help in resolving this issue.",Positive
+"Sure, I'll hold.",Neutral
+It's #claim20230101.,Negative
+"That sounds good, I guess. But I'd really like to get this resolved today if possible.",Neutral
+"Yes. I went to see my primary care physician last week, and when I got the bill, I saw that I was charged $50 as a copay. But I've checked my policy, and it says that I shouldn't have to pay anything for primary care visits.",Negative
+"Hi, I'm having some trouble registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"Alright, that sounds good. Can I get a reference number for the case?",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"Okay, thank you for your help.",Neutral
+"Great, thank you.",Positive
+This is ridiculous. I'm going to report this to my employer and make sure no one else has to deal with this nonsense.,Negative
+My member ID is MEM123456.,Positive
+It's MEM123456.,Neutral
+"I'm not seeing any error message. It just says that my username or password is incorrect, but I'm sure I'm entering the correct information.",Neutral
+I'm looking to see a cardiologist. I've been experiencing some issues with my heart and I need to get it checked out.,Neutral
+"Okay, that sounds good. How long will that take?",Neutral
+"Okay, that sounds good. I appreciate you looking into it.",Neutral
+"No, that's all. Thank you for your help.",Negative
+"Hi, I'm calling to request a pre-authorization for an upcoming medical procedure. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+"No, I think that's all.",Negative
+"No, that's all. But can you tell me when this issue will be resolved?",Neutral
+"(hesitant) No, that's all. Thanks, I guess.",Negative
+"Yes, I was aware of that.",Neutral
+"Okay, that sounds good. How long will it take to get a decision?",Neutral
+"Yes, I can do that. What's the fax number?",Neutral
+"That sounds great, thank you so much for your help!",Positive
+"No, that's all. Thank you so much for your help!",Positive
+"That sounds great, thank you so much for your help! I appreciate it.",Positive
+"(pauses) Yeah, I'm still holding.",Positive
+I'm looking for a dermatologist. I'd like to schedule it for next Wednesday or Thursday. I'm available anytime between 9 am and 3 pm.,Positive
+"That sounds great, actually. Can you tell me a bit more about Dr. Smith?",Positive
+"Sure, I'll hold.",Neutral
+"Hi, I'm calling about my recent visit to the doctor. I was charged a copay of $50, but I thought my policy said I didn't have to pay anything for this service.",Negative
+"(angrily) Well, what about my claim? Can you just approve it in the meantime?",Negative
+It says that my account is pending approval.,Negative
+"Sure, thank you.",Positive
+"You too, thank you!",Positive
+I'm available most weekdays after 2 PM. I was thinking maybe next Wednesday or Thursday?,Neutral
+"I've already tried that. I've reset my password multiple times, but it still won't let me log in.",Negative
+"I haven't set up a password yet, I'm trying to register. But I've tried multiple times and it still says my member ID is invalid.",Negative
+You too. Bye.,Positive
+"Thank you, you too. Bye.",Positive
+"No, that's all. Thank you again.",Negative
+It's MEM123456.,Neutral
+"No, I think that's all.",Negative
+It was a routine check-up with my primary care physician on January 10th.,Negative
+"I had a surgery last month and submitted a claim for the expenses. However, I received a letter stating that the service is not covered under my policy. But I'm sure that my new policy covers this service.",Neutral
+"Well, when I try to register, it says my email address is already in use. But I've never registered before. And when I try to log in, it says my password is incorrect.",Negative
+"Okay, I'll try that. (pause) Yeah, I'm still having the same issue.",Neutral
+You too. Bye.,Positive
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"Will do, thanks. Bye.",Positive
+Okay... (pause) Yes! I'm in! Thank you so much for your help!,Neutral
+"Ah, okay. My security question is ""What is my favorite hobby?"" and my answer is ""reading"".",Neutral
+"No, that's all. Thank you again.",Negative
+"Okay, that sounds good.",Neutral
+"Alright, that sounds good. Thank you for your help.",Positive
+"Okay, that sounds good. Thank you for your help so far.",Neutral
+"Okay, thank you.",Neutral
+"No, that's all. Thank you again for your help.",Negative
+Okay.,Neutral
+"My date of birth is June 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"(pauses) Yeah, I'm still holding.",Positive
+"Well, I'm not getting any error message. It just doesn't seem to be accepting my login credentials. I've tried multiple times, but it keeps saying that my username or password is incorrect.",Negative
+"Okay, that's fine. How long will it take to get a decision?",Neutral
+"Great, thank you so much for your help!",Positive
+"Hi, I'm calling about my recent visit to the doctor's office. I was charged a copay of $50, but I thought my policy only had a $20 copay for that service.",Negative
+"Thanks again, bye!",Positive
+"(sighs) Fine, I'll take Dr. Smith on Wednesday at 2 PM. But can you make sure that he knows I'm coming in for a follow-up appointment for my high blood pressure?",Neutral
+"The CPT code is 27447 and the estimated cost is around $15,000.",Negative
+Um...I don't think so. I've only tried logging in a few times today.,Negative
+"Okay, that makes sense. But will that affect my login credentials?",Neutral
+"Sure, thank you.",Positive
+"No, that's all. Thank you.",Negative
+"Great, thank you. I just wanted to ask, what's the address of the office where I'll be seeing Dr. Smith?",Positive
+"It was yesterday, and I had a routine check-up.",Positive
+Will do. Thanks again for your assistance.,Positive
+"Okay, that's great. Is there anything else I can provide to help expedite the process?",Neutral
+It's CLM789012.,Neutral
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+I'm looking for a cardiologist. I've been experiencing some chest pain and I want to get it checked out.,Neutral
+"Hi, I'm calling about my recent bill for the doctor's visit I had last week. I was charged a copay of $50, but I thought my policy said it was supposed to be $20.",Negative
+"No, that's all. Thank you for your help!",Negative
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"Okay, I just tried that, and I'm still getting the same error message.",Neutral
+"Sure, no problem.",Positive
+"Okay, sounds good. How long will it take to hear back from them?",Neutral
+"No, that's all.",Negative
+That sounds perfect. I'd like to schedule an appointment with Dr. Smith for Monday at 2 PM.,Positive
+"Alright, thank you so much for your help. I appreciate it.",Positive
+"Hello, I'm calling about a denied claim I received for a recent medical service. I believe it was incorrectly denied as my new policy should cover it. My member ID is MEM123456.",Negative
+"Okay, that sounds good. Can you send me the letter via email?",Neutral
+"My date of birth is March 12, 1985, and my primary care physician is Dr. John Smith.",Positive
+"Okay, got it. But I'm not sure if I'm going to be able to make it. Can I cancel or reschedule if needed?",Neutral
+"Okay, thank you for your help. I appreciate it.",Neutral
+"It was on February 10th, and I had a routine check-up.",Negative
+It's MEM123456.,Neutral
+(frustrated) A few days? That's not acceptable. I need this resolved now.,Negative
+"Well, when I try to log in, it says my username and password are incorrect, but I'm sure I'm entering the right information.",Neutral
+"Hi, I'm calling to get a case pre-authorized for a medical procedure. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+"No, that's all. Thank you again.",Negative
+"No, that's all for now. Thank you again.",Positive
+That sounds wonderful. Thank you for your help in resolving this issue. I really appreciate it!,Positive
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Rachel Kim.",Positive
+"Hi, I'm having trouble logging in to my account on your website. My member ID is MEM123456. Can you help me?",Negative
+It was on January 10th and it was a routine physical exam.,Negative
+"No, that's all. Thank you for your help!",Negative
+That sounds great. Thank you for your help.,Positive
+"My name is Emily Wilson, and my date of birth is March 12, 1985.",Positive
+My email address is jsmith@email.com.,Positive
+"(pauses) Yeah, I'm still holding.",Positive
+"Okay, that sounds good. How long will this take?",Neutral
+"Alright, that sounds good. And just to confirm, you've noted that the issue was due to the policy not being updated in your system?",Neutral
+"It just says ""Invalid username or password"" every time I try to log in. I've tried resetting my password multiple times, but it doesn't seem to be working.",Negative
+"Okay, that sounds good. What about the wait time? I don't want to have to wait too long.",Neutral
+"No, that's all. Thank you again.",Negative
+Goodbye.,Positive
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"Okay, thank you.",Neutral
+Okay...,Neutral
+"No, that's all. Thanks.",Negative
+(frustrated) A few days? That's not acceptable. I need this resolved now.,Negative
+"Okay, let me try that. (pause) Okay, I've cleared everything. But I'm still getting the same error message.",Neutral
+"Unbelievable. Fine, take my number. But this is not resolved.",Negative
+It's #CLM789012.,Neutral
+"Great, thank you.",Positive
+"Okay, got it. INV1234. Thank you for your help.",Neutral
+"No, that's all. Thank you again.",Negative
+"It's jsmith@email.com. And yeah, I just tried logging in again and got the same error message.",Negative
+"Okay, got it. PA123456. Thanks for letting me know.",Neutral
+You too. Bye.,Positive
+Okay... I just want this to be resolved as soon as possible. Can you tell me how long it will take?,Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+My username is jsmith and my password is ********.,Negative
+"Hi, I'm calling to request a case pre-authorization for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"No, I understood everything. Thank you for checking in with me.",Negative
+Thank you. Bye.,Positive
+"That's what I thought. I've been with this insurance company for years, and I've never had to pay for a primary care visit before.",Positive
+It's johndoe@example.com.,Neutral
+"That sounds good, but can you tell me a little bit more about Dr. Smith?",Neutral
+"(unconvinced) Alright... Thank you, I guess.",Neutral
+"That sounds great, thank you! But how long will it take to get this resolved?",Positive
+"Alright, thank you for looking into this. Can you give me a reference number for this issue so I can follow up?",Neutral
+"Hi, I'm having trouble registering and logging in to my online service account. Can you help me?",Negative
+"No, that's all. Thank you.",Negative
+"Okay... (pause) Ah, that seems to have worked! I was able to register successfully.",Neutral
+"Okay, that sounds great. How long will it take to process?",Neutral
+Wonderful! I appreciate your help with this. Can you also confirm that my policy still has the $0 copay for that service?,Positive
+"Okay, I'll hold.",Neutral
+"Okay, that makes sense. What can be done to resolve this?",Neutral
+"Okay, I've tried that, but it's still not working.",Neutral
+"Sure, no problem.",Positive
+"Okay, that sounds good. But how long will that take?",Neutral
+"I switched policies on January 1st. I was told that the new policy would cover the service I received, but the denial letter says it's not covered.",Negative
+"The CPT code is 73600, and I'm planning to have it done on March 25th.",Neutral
+"Okay, great. Thank you!",Positive
+You too. Bye.,Positive
+"That's right. But I had switched to a new policy a few months ago, and as per the new policy, the affected services should be covered.",Neutral
+"Okay, got it. Thank you for your help.",Neutral
+It's MEM123456.,Neutral
+"Okay, got it. I just got the email.",Neutral
+"Sure, thank you.",Positive
+"I've already tried that, but it's not working. It says that my email address is not recognized.",Negative
+"Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I thought my policy didn't have a copay for that service.",Negative
+"Sure, I'll hold.",Neutral
+"That sounds good, but can I get a little more information about Dr. Lee? What's his specialty and what's his experience with patients with similar conditions to mine?",Neutral
+"Okay, sounds good. Thank you for your help.",Neutral
+"That's incorrect. I recently switched to a new policy, and I'm certain that physical therapy sessions are covered.",Neutral
+Unbelievable. I've wasted 10 minutes of my time already. Can you at least give me a case number or something so I can reference this conversation?,Negative
+"My address is 123 Main Street, Anytown, USA 12345, and my phone number is 555-555-5555.",Positive
+"Okay, that sounds good. Can you also confirm that my account will be updated to reflect the corrected copay?",Neutral
+(hangs up),Negative
+"No, that's all. Thanks again for your help!",Positive
+"Hi, I'm calling to get a case pre-authorized for a surgery I need to have done. My name is Emily Wilson and my member ID is MEM456789.",Negative
+"No, that's all. Thank you again.",Negative
+"Yes, that sounds good. Thank you for your help.",Positive
+It's MEM123456.,Neutral
+"Hi, I'm calling to get a case pre-authorized for a procedure I need to have done. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"That would be great, thank you.",Neutral
+"I actually recently switched to a new policy, which I thought covered physical therapy sessions. I'm not sure why it was denied. My new policy is a Platinum plan, and I switched to it last month.",Negative
+"My doctor's name is Dr. Smith, and the procedure code is XYZ123.",Positive
+"No, that's all. Thanks again.",Negative
+"I've already tried that. I've reset my password multiple times, but it still won't let me log in.",Negative
+I'm using Google Chrome. (00:40),Positive
+"That's great, thank you so much for your help!",Positive
+"Well, when I try to register, it says my email address is already in use, but I've never registered before. And when I try to log in, it says my password is incorrect, but I'm pretty sure I'm entering it correctly.",Neutral
+"It's a knee replacement surgery, and it's scheduled for April 15th.",Neutral
+(provides account information),Positive
+You too.,Positive
+"It was on January 10th, and the doctor's office was Smith Family Medicine.",Negative
+It was Smith Medical Group.,Neutral
+"Okay, I've tried logging in again, and it looks like it's working now.",Neutral
+"Hi, I'm calling about a denied claim. My name is Emily Wilson, and my member ID is MEM456789.",Negative
+I'm getting an error message that says my username and password are incorrect. But I'm sure I'm using the right credentials.,Neutral
+Okay...,Neutral
+My doctor's name is Dr. Smith and the procedure will be performed at Mercy Hospital.,Positive
+It's MEM123456.,Neutral
+That's possible. What do I need to do to access my account?,Neutral
+"Alright, thank you. I appreciate your help.",Positive
+"Alright, thank you again.",Positive
+My doctor's name is Dr. Smith and the surgery is scheduled at Mercy Hospital.,Positive
+That sounds great. Can you tell me a bit more about Dr. Smith and Dr. Johnson? What are their specialties within dermatology?,Positive
+"Okay, thank you for your help.",Neutral
+"That's great, thank you so much for your help! Can you please provide me with a reference number for the pre-authorization?",Positive
+"But I'm positive my policy says $20. I've been with this insurance company for years, and I've never paid more than that for a doctor's visit.",Neutral
+"Okay, that sounds great. How long will that take?",Neutral
+"No, that's all. Thank you.",Negative
+Sounds great. Thank you.,Positive
+That sounds good. And what about Dr. Johnson?,Neutral
+"Yes, that would be great. Thank you!",Positive
+"Okay, thank you for your help.",Neutral
+"Okay, that sounds reasonable. What's the next step in the pre-authorization process?",Neutral
+"Okay, that sounds good. What information do they need to provide?",Neutral
+"Sure, go ahead.",Positive
+"It's August 12, 1985.",Negative
+"I've been experiencing some back pain, and my primary care physician recommended that I see an orthopedic specialist.",Neutral
+"Okay, I'll try that. Thank you for your help.",Neutral
+"Hi, I'm back on the line again. I just wanted to check on the status of my pre-authorization request.",Negative
+Sounds good. Thank you for your help in resolving this issue.,Positive
+"You too, thanks. Bye.",Positive
+"Okay, that sounds good. Thank you for your help, Agent.",Neutral
+"Okay, I think I did that correctly this time. But now I'm getting a different error message. It says ""account locked due to excessive login attempts.""",Neutral
+Um...I don't think so. I've only tried logging in a few times today.,Negative
+"Sure, I'll hold.",Neutral
+"Okay, thank you.",Neutral
+"Hi, I'm calling about a denied claim I received for a recent medical service. My member ID is MEM123456. I was told that the policy doesn't cover the service, but I'm pretty sure it should be covered under my new policy.",Negative
+"You too, thank you!",Positive
+"Hi, I'm calling about my recent visit to the doctor's office. I was charged a $50 copay, but I thought my policy only had a $20 copay for that service.",Negative
+You too. Bye.,Positive
+Thank you for the follow-up. I appreciate it.,Positive
+"I'm not getting an error message. It just keeps taking me back to the login page. I've tried using my username and password, but it's not recognizing them.",Negative
+"Hi, I'm calling to request a pre-authorization for a medical procedure. My name is Emily Wilson, and my member ID is MEM123456.",Negative
+"That's what I thought. So, why was I charged $50?",Negative
+"Okay, that sounds good. What's the next step?",Neutral
+It's MEM123456.,Neutral
+"No, that's all. Thank you again.",Negative
+"Okay, that sounds great. Thank you so much for your help.",Positive
+"I'm pretty flexible, but I'd prefer something within the next two weeks. I'm available weekdays after 2 PM.",Neutral
+"Okay, thank you.",Neutral
+"No, that's all. Thank you.",Negative
+The procedure code is 23456 and the estimated date of the surgery is March 25th. My doctor's office said that I need to get pre-authorization before the surgery can be scheduled.,Negative
+"Great, thank you so much! I really appreciate your help.",Positive
+"Okay, great. Thank you so much for your help.",Positive
+"Alright, thank you.",Positive
+"Alright, thank you.",Positive
+"Hi, I'm calling about a denied claim I received for a recent medical service. I believe it was incorrectly denied.",Negative
+"No, that's all.",Negative
+It was on February 10th and the provider was Dr. Smith.,Negative
+The diagnosis code is 250.00 and the provider's name is Dr. Smith.,Negative
+I'm looking for a dermatologist. I'd like to schedule it for next Wednesday or Thursday. I'm available anytime between 9 am and 3 pm.,Positive
+"Hi, I'm calling about my online service account. I'm having trouble registering and logging in. My member ID is MEM123456.",Negative
+"Okay, thank you for your help.",Neutral
+My doctor's name is Dr. Smith and the facility is Springdale Imaging Center.,Positive
+You too. Bye.,Positive
+(irritated) Why wasn't it activated in the first place? I've been trying to get this working for hours.,Negative
+"Okay, that sounds good. Can you also confirm that my policy allows for no copay for this service in the future?",Neutral
+"Sure, thank you.",Positive
+"Okay, that's fine. How much is the deductible?",Neutral
+"No, that's all. Thank you again for your help.",Negative
+"That sounds great, thank you! I think I'd prefer Dr. Smith on Wednesday. What time is the appointment?",Positive
+"Okay, thank you.",Neutral
+"No, I think that's all.",Negative
+"That makes sense, I guess. So, what can be done to resolve this?",Neutral
+"That's right. I've been to this doctor before, and I've never been charged more than $20.",Negative
+"Okay... (pause) Yes, I'm in! Thank you so much for your help.",Neutral
+"Hi, I'm calling about my recent bill for the doctor's visit I had last week. I was charged a copay of $50, but I thought my policy said it was supposed to be $20.",Negative
+"Okay, great. Thank you for your help.",Positive
+"Okay... (pause) Yeah, same thing. It says ""invalid email or password"".",Neutral
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but I thought it was supposed to be $20 according to my policy.",Negative
+"Oh, great! Thank you so much for looking into that for me.",Positive
+Will do. Thanks again for your assistance.,Positive
+"Hi, I'm having trouble logging in to my account on your website. My member ID is MEM123456. Can you help me?",Negative
+"My doctor's name is Dr. Smith, and the MRI is scheduled at Mercy Hospital.",Positive
+"No, that's all. Thank you.",Negative
+"Hi, I'm calling about a denied claim I received recently. My name is Emily Wilson and my member ID is MEM123456.",Negative
+It's jsmith@email.com.,Positive
+"Yes, that sounds good. Can you go ahead and schedule it for me?",Positive
+"Okay, let me try that. (01:00)",Neutral
+"Okay, thank you. Is there anything else I need to do in the meantime?",Neutral
+How do I check that?,Negative
+It's johndoe@email.com.,Positive
+"Hi, I'm having some trouble registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"No, that's all.",Negative
+"Okay, that makes sense. How much is the deductible?",Neutral
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM456789.",Negative
+"Alright, that sounds good. Can you please provide me with the case number so I can follow up on it?",Neutral
+I was thinking maybe next Wednesday?,Negative
+"Hi, I'm calling about a denied claim. My claim for physical therapy sessions was denied, but I'm sure I'm covered. My member ID is MEM123456.",Neutral
+"Okay, got it. Thank you.",Neutral
+"No, that's all. Thank you again.",Negative
+"The visit was on January 10th, and the provider's name is Dr. Smith.",Negative
+"No, that's all. Thank you again.",Negative
+"Hi, I'm calling about a denied claim I received for my recent medical service. My claim number is CLM123456. I believe it was denied in error. My name is Emily Wilson and my member ID is MEM456789.",Negative
+(skeptical) Okay... And how long is this going to take?,Neutral
+"That sounds great, thank you so much. How long will it take to get the refund?",Positive
+"Hi, I'm having some trouble logging in to my online service account. My member ID is MEM654321.",Neutral
+"(reluctantly) Alright... thank you, I guess.",Neutral
+"Yes, that's correct.",Neutral
+"It's August 12, 1985.",Negative
+"Okay, that sounds good. But I'd like to do some more research on my own before scheduling the appointment. Can I get back to you?",Neutral
+"Okay, that sounds good. Thank you for your help, I appreciate it.",Neutral
+Goodbye.,Positive
+"Yes, my member ID is MEM123456 and the service was on February 10th.",Negative
+"It just says ""Invalid username or password"" every time I try to log in. I've tried resetting my password multiple times, but it doesn't seem to be working.",Negative
+"Thank you, you too. Bye.",Positive
+"Okay, that sounds good. I appreciate your help.",Neutral
+"It was on February 10th, and I had a routine check-up.",Negative
+"No, that's all. Thank you again!",Negative
+My plan type is the Gold Plan and the surgery will be performed at Mercy Hospital.,Positive
+That's not good enough. I want this resolved now. Can you just waive the extra $30?,Negative
+"It just says ""Invalid username or password"" every time I try to log in. I've tried resetting my password multiple times, but it doesn't seem to be working.",Negative
+"No, that's all. Thank you again for your help. You've been very patient and helpful.",Positive
+"It's August 12, 1985.",Negative
+"Okay... (pause) Yeah, I'm still getting the same error message.",Neutral
+"You too, bye.",Positive
+"Sure, thank you.",Positive
+Thanks again for your help!,Positive
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Sure, thank you.",Positive
+"No, that's all. Thank you again for your help. (02:30)",Negative
+I'm not sure. Can I call back later and schedule something?,Neutral
+"No, I think that's all. Thanks again for your help.",Negative
+"Alright, thank you for your help.",Positive
+"Sounds good. But wait, what's the phone number to confirm the appointment?",Neutral
+"Hi, I'm calling about a denied claim I received for a recent medical service. I believe it was denied in error.",Negative
+"Okay, that sounds great. How long will that take?",Neutral
+That sounds great. How long will it take for them to review it?,Positive
+"Great, thank you so much! I appreciate your help.",Positive
+"No, that's all. Thanks again.",Negative
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"Yes, my name is Emily Wilson, and the date of service was March 10th.",Negative
+I hope so. This has been a huge hassle and I just want to get this taken care of.,Neutral
+"It was on January 10th, and it was for a physical therapy session.",Negative
+Can you tell me a bit more about both doctors?,Neutral
+"Great, thank you for confirming. I appreciate it.",Positive
+(irritated) Why wasn't it activated in the first place? I've been trying to get this working for hours.,Negative
+Thank you. You too.,Positive
+(angrily) Inconvenience? You have no idea... (hangs up the phone),Negative
+"It just says ""invalid credentials"" when I try to log in. I've tried resetting my password, but it still doesn't work.",Negative
+That sounds great. Thank you so much for your help.,Positive
+"Alright, thank you for your help.",Positive
+"Yes, of course. The claim was for a doctor's visit, and the reason for the denial was that it's not covered under my policy. But I had switched to a new policy last month, and I'm certain that this service is covered under the new policy.",Neutral
+It was a routine physical exam on January 10th. My policy says I shouldn't have to pay anything for preventive care.,Negative
+"No, that's all. Thank you for your help!",Negative
+Goodbye.,Positive
+"Okay, sounds good. Is there anything else I need to do in the meantime?",Neutral
+Thank you.,Positive
+"It was on January 10th, and the doctor's office was Smith Family Medicine.",Negative
+"I'm looking for a dermatologist. I've been experiencing some skin issues lately, and I'd like to get it checked out.",Neutral
+"Yes, that would be great. Thank you!",Positive
+"When I try to log in, it says my username and password are incorrect. I've tried resetting my password, but it doesn't seem to work.",Negative
+Yeah... I've been experiencing some back pain and my doctor says I need a herniated disc surgery. I've already had an MRI and everything.,Negative
+I'm using Google Chrome.,Positive
+"That's what I thought. So, what's going to happen next?",Neutral
+"Yeah, it's #CLM789012. I'm really surprised it was denied because I know my new policy covers this service.",Negative
+"Okay, thank you.",Neutral
+I was thinking maybe next Wednesday?,Negative
+"No, that's all. Thank you so much for your help!",Positive
+(angrily) Inconvenience? You have no idea... (hangs up the phone),Negative
+"Oh, great! Thank you so much for your help. I really appreciate it. (02:10)",Positive
+"Oh, okay. That makes sense. Thank you!",Neutral
+"Okay... (pauses) Yes, I'm in! Thank you so much for your help.",Neutral
+"That sounds great, thank you so much. How long will it take to get the refund?",Positive
+You too. Bye.,Positive
+"Well, when I try to register, it says my email address is already in use, but I'm sure I've never registered before. And when I try to log in, it says my password is incorrect, but I'm sure I'm entering the correct one.",Neutral
+"Yes, the service was on January 10th, and the denial reason is ""policy does not cover the service"". But like I said, I've switched to a new policy that started on January 1st, and I'm sure this service is covered under the new policy.",Negative
+"Okay, that sounds good. Can you also confirm that I won't be responsible for the $50 copay?",Neutral
+"(pause) Yes, that worked! I'm in.",Positive
+"Okay, that sounds fine. Can you keep me updated on the status?",Neutral
+"Alright, thank you. I appreciate your help.",Positive
+You too.,Positive
+"No, that's all. Thank you again!",Negative
+Will do. Thanks again for your assistance.,Positive
+"My date of birth is March 12, 1985, and I need pre-authorization for a knee surgery.",Positive
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"That sounds great, thank you. How will I know if everything is taken care of?",Positive
+"Yeah, my policy number is MEM123456, and the date of service was January 10th.",Negative
+It's MEM123456.,Neutral
+"I went to see my primary care physician on January 10th for a routine check-up. I've been going to this doctor for years, and I've never been charged a copay before.",Positive
+"No, that's all. Thank you for your help.",Negative
+"Hi, I'm calling about my online service account. I'm having trouble registering and logging in. My member ID is MEM123456.",Negative
+"Hi, I'm having trouble logging in to my online service account. My member ID is MEM123456. I've tried resetting my password, but I'm still getting an error message.",Negative
+It's MEM123456.,Neutral
+"Hi, I'm calling about a denied claim I received for a recent medical service. I believe it was denied in error.",Negative
+"Wonderful, thank you so much for your help! I really appreciate it.",Positive
+"No, that's all. Thank you again for your help.",Negative
+"Yes, I need to have a knee replacement surgery. My doctor has recommended it due to severe arthritis.",Neutral
+"No, that's all. Thank you again for your help.",Negative
+"Yes, that sounds good. Can you go ahead and schedule it for me?",Positive
+Okay...I hope this gets resolved soon. I need to get reimbursed for that doctor's visit.,Neutral
+I need to have an MRI scan done for my knee. I've been experiencing some pain and my doctor recommends I get it checked out.,Positive
+"Sounds good, thank you.",Positive
+"Okay... (pause) Nope, it's still not working.",Neutral
+"No, that's all. Thank you again for your help.",Negative
+"Hi, I'm calling about my recent visit to the doctor's office. I was charged a copay of $50 for a service, but I'm pretty sure my policy doesn't require a copay for that service.",Neutral
+"(hesitant) No, that's all. Thanks, I guess.",Negative
+"Hi, I'm calling about a denied claim. My claim for the recent medical service was denied because the policy doesn't cover it. But I had switched to a new policy which should cover it.",Negative
+"No, that's all. Thank you for your help!",Negative
+"I switched policies on January 1st. I was told that the new policy would cover the service I received, but the denial letter says it's not covered.",Negative
+"Hi, I'm calling about a denied claim I received for a recent medical service. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"It was on February 10th, and I had a follow-up appointment with my primary care physician.",Negative
+You too.,Positive
+"Hi, I'm having trouble registering and logging in to my online service account. I've tried multiple times, but I keep getting an error message. My member ID is MEM123456.",Negative
+"Okay, great. Thank you for letting me know.",Neutral
+"Hi, I'm having trouble logging in to my online account. I'm trying to register, but it's not working. My member ID is MEM000123.",Negative
+"No, that's all. Thank you.",Negative
+"My email is jsmith@email.com and my password is... (pauses, then whispers) ...my password is "" password123"".",Negative
+"I have the Silver Plan. And according to the policy documents, I shouldn't have to pay more than $20 for a primary care visit.",Neutral
+"Well, I go to the website and click on the login button, but it says my username and password are incorrect. I've tried resetting my password, but it doesn't seem to be working.",Negative
+"No, that's all. Thank you again for your help.",Negative
+"No, that's all. Thank you.",Negative
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"Okay, I'll try that. (pause) Okay, I've cleared my cache and cookies. But I'm still having the same issue.",Neutral
+"That's right. I've been to this doctor before, and I've never been charged more than $20.",Negative
+"No, that's all. Thanks.",Negative
+(sighs) Okay... let me try again.,Neutral
+"No, that's all. Thank you again.",Negative
+"No, that's all. Thank you for your help!",Negative
+It was a routine check-up with my primary care physician on February 10th.,Neutral
+"Okay, thank you for trying to help. Can you please escalate the issue and get back to me?",Neutral
+"Okay, that sounds good. How long will that take?",Neutral
+"Well, I'm not getting any error message. It just doesn't seem to be accepting my login credentials. I've tried multiple times, but it keeps saying that my username or password is incorrect.",Negative
+(frustrated) That's ridiculous. I switched policies over two months ago. How long does it take to update the system?,Negative
+How do I check that?,Negative
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM456123.",Negative
+"Hi, my name is Emily Wilson and my member ID is MEM456789. I'm calling about a claim that was denied. I received a letter stating that my policy doesn't cover the service, but I'm certain that it should be covered under my new policy.",Negative
+"Yeah, my date of birth is March 12, 1990, and the last four digits of my payment method are 1234.",Negative
+"No, that's all. Thank you again.",Negative
+"No, that's all. Thank you again.",Negative
+"Hi, my name is Emily Wilson and my member ID is MEM456789. I'm calling about a claim that was denied. I received a letter stating that my policy doesn't cover the service, but I'm certain that it should be covered under my new policy.",Negative
+"No, that's all. Thank you again.",Negative
+"No, that's all. Thank you!",Negative
+"No, that's all. Thank you again!",Negative
+"No, that's all. Thank you again for your help.",Negative
+"Hi, I'm calling about my recent visit to the doctor's office. I was charged a copay of $50, but I'm certain my policy says I shouldn't have to pay anything for that service.",Negative
+"Okay, that sounds good. What is the case number so I can reference it if I need to call back?",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"That sounds reasonable. But can I also get the name of another specialist, just in case?",Neutral
+"No, that's all. Thank you again!",Negative
+"No, that's all. Thank you so much for your help. You've been very helpful.",Positive
+What kind of information do you need?,Neutral
+I've been experiencing severe knee pain due to arthritis and my doctor has recommended the replacement surgery to alleviate the pain and improve my mobility.,Positive
+"Okay, I understand. Is there a case number or reference number I can use to follow up on the status?",Neutral
+"Yes, my cell phone number is 555-123-4567.",Negative
+My name is Johnson. I'm having some issues with my knee and I need to see an orthopedic specialist.,Neutral
+You too.,Positive
+"That makes sense, I guess. So what can be done to resolve this?",Neutral
+That sounds great. How long do you think it will take?,Positive
+It's MEM123456.,Neutral
+"Hi, I'm trying to register and log in to my online service account, but I'm having some trouble. Can someone help me? (00:00)",Neutral
+It was a routine check-up with my primary care physician on January 10th.,Negative
+"No, that's all. Thank you for your help.",Negative
+"Okay, that sounds great. Thank you so much for your help. I really appreciate it.",Positive
+That sounds great. Thank you so much for your help.,Positive
+"Okay, that sounds good. How long do you think this will take?",Neutral
+"Sure, thank you.",Positive
+"No, that's all. Thank you for your help.",Negative
+That's a bit too early for me. Do you have anything later in the day?,Neutral
+"Okay, let me try... (pause) Yes, I'm in! Thank you so much for your help!",Neutral
+"I haven't set up a password yet, I'm trying to register. But I've tried multiple times and it still says my member ID is invalid.",Negative
+(on hold for 2 minutes),Negative
+That's correct! I upgraded my policy to get more coverage.,Neutral
+"When I try to log in, it says my username and password are incorrect. I've tried resetting my password, but it still doesn't work.",Negative
+"Okay, I see. Well, can I get a pre-authorization for the amount that you will cover?",Neutral
+"Oh, great! Thank you so much for your help. I really appreciate it. (02:10)",Positive
+My doctor's name is Dr. Smith and the procedure will be performed at Mercy Hospital.,Positive
+"Okay, that sounds good. How long will it take to get a decision on the pre-authorization?",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"Alright, that sounds great. Thank you so much for your help in resolving this issue.",Positive
+"Okay, I'll hold.",Neutral
+"Yeah, I've tried that already. My username is jsmith123 and my password is... (pauses for security reasons).",Negative
+"No, that's all. Thank you.",Negative
+"Okay, I've done that.",Neutral
+"Okay...thank you, I guess.",Neutral
+"Hi, I'm having trouble registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"Well, I've tried to register a few times, but it keeps telling me that my email address is already in use. I'm not sure what to do.",Positive
+The specialist's name is Dr. Johnson.,Neutral
+"Hi, I'm calling to request a case pre-authorization for a medical procedure. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Okay, that sounds good. Thank you for your help.",Neutral
+"Okay, I understand. Can I check on the status of my pre-authorization request while it's being processed?",Neutral
+"Thanks again, you too!",Positive
+"Okay, let me try that. (pause) I've cleared my browser's cache and cookies, but I'm still having the same issue.",Neutral
+"Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM123456.",Negative
+Sounds good.,Positive
+"My date of birth is 02/12/1985, and the phone number is 555-1234.",Positive
+I'm scheduled to have a knee replacement surgery next month and I need to get pre-authorization for it.,Neutral
+"Okay, I've checked my email and clicked on the link. What's next?",Neutral
+"Okay, great. Thank you for letting me know.",Neutral
+"Okay... (pause) Yeah, I'm getting the same error message. My email address is johndoe@example.com.",Neutral
+"Alright, thank you for your help in resolving this issue.",Positive
+I'm looking for a dermatologist. I'd like to schedule it for next Wednesday or Thursday. I'm available anytime between 9 am and 3 pm.,Positive
+It's MEM123456.,Neutral
+"My date of birth is March 12, 1985, and I'm looking to get a knee replacement surgery.",Positive
+"Okay, thanks.",Neutral
+That sounds great. I think I'd like to schedule with Dr. Smith for next Wednesday at 3 PM.,Positive
+"That doesn't make sense. I did switch policies, and I should have received the new policy documents by now.",Negative
+"You too, bye.",Positive
+"Yeah, that's fine. Thank you for your help so far.",Positive
+Goodbye.,Positive
+"No, I understood everything. Thank you for checking in with me.",Negative
+"That sounds great, thank you so much. How long will it take to get the refund?",Positive
+"You too, bye.",Positive
+Unbelievable. I've wasted 10 minutes of my time already. Can you at least give me a case number or something so I can reference this conversation?,Negative
+Okay... (pause) Still not working.,Neutral
+"Okay, that sounds good. But what about the $30 difference that I was overcharged? Will I get that refunded?",Neutral
+"No, that's all. Thank you again!",Negative
+"(frustrated) Fine. Yes, I've had a few surgeries in the past, okay? And I have some pre-existing conditions. Can we move on now?",Neutral
+"Yeah, that would be great. Thanks.",Neutral
+"No, that's all. Thank you again.",Negative
+Bye.,Positive
+It's jsmith@email.com.,Positive
+"Yes, that sounds good. Can you go ahead and schedule it for me?",Positive
+"Okay, I've checked my email and I don't see the verification code.",Neutral
+"Okay, that sounds good. Is there anything else I need to do in the meantime?",Neutral
+"Sure, no problem.",Positive
+"It's March 12, 1985.",Positive
+"That sounds great, thank you so much for your help. I really appreciate it.",Positive
+"That's what I thought. So, what happens next?",Neutral
+Thank you. You too.,Positive
+"Alright, that sounds good. Can you also confirm that my policy does indeed cover that service with no copay or a lower copay?",Neutral
+"Okay, thank you.",Neutral
+"Okay, got it. Thank you.",Neutral
+My doctor's name is Dr. Smith and the facility is Springfield Hospital.,Positive
+"Okay, that sounds good. Thank you for your help today.",Neutral
+That sounds great. Thank you so much for your help.,Positive
+"So, what's going to happen now? Will I get a refund?",Negative
+"Okay, that sounds good. But I'm still not sure if I'm going to be able to make it. Can I call back and confirm later?",Neutral
+"Hi, I'm having trouble registering and logging in to my online service account. I've tried multiple times, but I keep getting an error message. My member ID is MEM123456.",Negative
+"My email address is johndoe@example.com. And yes, I've tried clearing my browser cache and cookies, but it didn't make a difference.",Negative
+The procedure code is XYZ123 and it's scheduled for March 25th. My doctor's name is Dr. Smith and his office is located at 123 Main St.,Positive
+"Hi, I'm calling to get a case pre-authorized for a surgery I need to have done. My name is Emily Wilson and my member ID is MEM456789.",Negative
+"Okay, how long will that take?",Neutral
+"Thank you, bye.",Positive
+"Okay, go ahead.",Neutral
+"That's great, thank you. How long will it take to receive the reimbursement?",Positive
+That sounds great. I think I'd like to schedule with Dr. Smith for next Wednesday at 3 PM.,Positive
+I didn't receive a confirmation email. Can you resend it?,Negative
+"Yes, it says my username and password are incorrect, but I'm certain I'm entering them correctly.",Neutral
+"No, that's all. Thank you so much for your help. I really appreciate it.",Positive
+Okay...,Neutral
+"Hi, I'm calling about a denied claim I received. My name is Emily Wilson and my member ID is MEM654321.",Negative
+"That makes sense, I guess. So, what can be done to fix this?",Neutral
+Thank you.,Positive
+"No, that's all. Thank you again.",Negative
+"Okay, I'll try that. (pause) Okay, I've cleared the cache and cookies, but it's still not working.",Neutral
+"Oh, I see. So, it was just a technical issue?",Neutral
+"Hi, I'm calling about a denied claim I received for a recent medical service. My claim was denied because the policy doesn't cover the service, but I've switched to a new policy that does cover it. My member ID is MEM123456.",Negative
+"But that's not what my policy says! I'm looking at it right now, and it says I shouldn't have to pay more than $20 for that type of service.",Negative
+I need a knee replacement surgery due to arthritis. My doctor has scheduled it for next Thursday.,Neutral
+"You too, thank you.",Positive
+"Alright, thank you for looking into this. I appreciate your help.",Positive
+"Alright, I'll send them over. But can you at least give me an estimate of how long it'll take to resolve this issue?",Neutral
+"My date of birth is March 12, 1985, and my primary care physician is Dr. Smith.",Positive
+"No, that's all. Thank you again!",Negative
+"No, that's all. Thank you for your help.",Negative
+"Hi, I'm having trouble registering and logging in to my online service account. My member ID is MEM123456.",Negative
+"Hi, I'm calling about a denied claim I received. My member ID is MEM123456. I was told that the service I received wasn't covered under my policy, but I'm pretty sure it should be covered.",Negative
+"It's March 12, 1985.",Positive
+"Yeah, I've tried that already. My username is jsmith123 and my password is... (pauses for security reasons).",Negative
+I've been having some issues with acne and I just want to get it checked out.,Neutral
+"That sounds great, thank you! But can you also tell me why this happened in the first place?",Positive
+"Yes, I switched policies about two months ago. I specifically chose the new policy because it covers the service that was denied.",Negative
+Okay...I just want to get this resolved as soon as possible.,Neutral
+I'm looking to get a knee replacement surgery. I've been experiencing a lot of pain and my doctor thinks this is the best course of action.,Positive
+(sighs) Fine.,Positive
+You too. Bye.,Positive
+"Wonderful, thank you so much for your help. I really appreciate it.",Positive
+You too.,Positive
+That's not good enough. I want this resolved now. Can you just waive the extra $30?,Negative
+Sure.,Positive
+Okay.,Neutral
+"No, that's all. Thanks again for your help!",Positive
+I'm looking to see a cardiologist.,Neutral
+"Hi, I'm calling about my recent visit to the doctor. I was charged a copay of $50, but I'm sure my policy says it's supposed to be $10.",Negative
+It was just a regular check-up. I don't see why that would be an exception.,Neutral
+"So, what's going to happen now? Will I get a refund?",Negative
+"Okay, I'm holding.",Neutral
+"No, that's all. Thank you again for your help.",Negative
+"Hi, I'm calling about a denied claim I received for a recent service. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"You too, thanks again!",Positive
+My doctor's name is Dr. Smith and the surgery is scheduled for April 15th.,Negative
+I'm scheduled to see a specialist for a knee injury I've been experiencing. My doctor thinks I might need surgery.,Neutral
+"Okay, I'll try that. (pause) Okay, I've cleared the cache and cookies, but I'm still getting the ""invalid credentials"" message.",Neutral
+"You too, thanks. Bye.",Positive
+"Okay, fine. I'll send over the policy. But can you at least give me a timeline of when this will be resolved?",Neutral
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson and my member ID is MEM123456.",Neutral
+"No, that's all. Thank you again.",Negative
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a copay of $50, but I thought it was supposed to be $20 according to my policy.",Negative
+"Okay, great. Thank you for your help.",Positive
+"Okay, that sounds reasonable. Thank you for your help.",Neutral
+"Will do, thanks again!",Positive
+That's unacceptable. I switched policies over a month ago. How could this not be updated in your system yet?,Negative
+"Okay, sounds good. Thank you for your help!",Neutral
+"Okay, that sounds good. How long will it take to get the refund?",Neutral
+"Great, thank you so much for your help!",Positive
+That sounds perfect. I'd like to schedule an appointment with Dr. Smith for Monday at 2 PM.,Positive
+"I've already tried that. I've reset my password multiple times, but I still can't log in. And now I'm getting a message that says my account is locked.",Negative
+"Great, thank you so much for your help! I appreciate it.",Positive
+"(sighs) That's not ideal, but I suppose it's better than waiting even longer. Who would I be seeing?",Neutral
+Bye!,Positive
+"Okay, that sounds great. How long will it take for the refund to be processed?",Neutral
+That's fine. How do I get the pre-authorization number?,Neutral
+You too. Bye.,Positive
+"It's CLM789012. I'm a bit confused because I had switched my policy last quarter, and as per my new policy, this service should be covered.",Neutral
+"No, that's all. Thank you again.",Negative
+"No, that's all. Thank you again.",Negative
+"Alright, thank you for your help.",Positive
+"Okay, that sounds good. I just want to make sure everything is taken care of before I go in for the procedure.",Neutral
+"Hi, I'm calling about a denied claim I received for a recent medical service. My member ID is MEM123456.",Negative
+My username is jsmith and my password is ********.,Negative
+You too!,Positive
+"Hi, I'm calling about my recent bill for a doctor's visit. I was charged a $50 copay, but I thought my policy covered that service with no copay.",Negative
+I'm looking to see a dermatologist. I have some skin issues that I'd like to get checked out.,Neutral
+"No, that's okay. I'll just call back later. Thanks for your help.",Neutral
+"My email address is johndoe@example.com. And yes, I've tried clearing my browser cache and cookies, but it didn't make a difference.",Negative
+"You too, thanks. Bye.",Positive
+"No, that's all. Thank you!",Negative
+"Alright, thank you for looking into this. I appreciate it.",Positive
+"Unbelievable. Fine, take my number. But this is not resolved.",Negative
+Will do. Thanks again for your assistance.,Positive
+"Sure, go ahead.",Positive
+"The date of service was January 10th, and the provider's name is Dr. Smith.",Negative
+"Okay, I understand. Can you please provide me with a case number so I can follow up on the status of my request?",Neutral
+"The procedure code is 23456, and the date of service is scheduled for March 15th.",Negative
+"Sure, I'll hold.",Neutral
+"Okay, that sounds great. How long will it take to resolve this?",Neutral
+"It's jsmith@email.com. But I've already tried using the ""forgot password"" option and it's not sending me a reset link.",Negative
+"I was thinking maybe sometime next week? I'm pretty flexible, but I'd prefer a morning appointment if possible.",Neutral
+"Hi, I'm calling to get a case pre-authorized for a surgery I need. My name is Emily Wilson and my member ID is MEM123456.",Negative
+"Hi, I'm calling to schedule an appointment with a specialist. My name is Emily Wilson, and my member ID is MEM123456.",Neutral
