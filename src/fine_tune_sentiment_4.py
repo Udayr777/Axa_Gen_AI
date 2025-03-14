@@ -5,7 +5,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trai
 import os
 
 # Load and Prepare Data
-file_path = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\balanced_final_classified_results.csv"
+file_path = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\balanced_final_classified_results.csv"
 df = pd.read_csv(file_path)
 
 # Convert Text Labels to Numeric Labels
@@ -34,7 +34,7 @@ config = AutoConfig.from_pretrained(model_name, num_labels=num_labels)
 model = AutoModelForSequenceClassification.from_pretrained(model_name, config=config)
 
 # Define Training Arguments
-output_dir = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\fine_tuned_sentiment_model"
+output_dir = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\fine_tuned_sentiment_model"
 os.makedirs(output_dir, exist_ok=True)
 
 training_args = TrainingArguments(

@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.utils import resample
 
 # Load the Ground Truth Dataset
-ground_truth_path = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\ground_truth_dataset.csv"
+ground_truth_path = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\ground_truth_dataset.csv"
 df_ground_truth = pd.read_csv(ground_truth_path)
 
 # Check Initial Label Distribution
@@ -30,7 +30,7 @@ balanced_label_counts = df_balanced_ground_truth["Sentiment_actual"].value_count
 print("\nBalanced Label Distribution:\n", balanced_label_counts)
 
 # Save the New Balanced Ground Truth Dataset
-balanced_ground_truth_path = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\balanced_ground_truth_dataset.csv"
+balanced_ground_truth_path = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\balanced_ground_truth_dataset.csv"
 df_balanced_ground_truth.to_csv(balanced_ground_truth_path, index=False)
 
 print(f"\nBalanced ground truth dataset saved at: {balanced_ground_truth_path}")

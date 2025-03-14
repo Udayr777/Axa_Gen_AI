@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.utils import resample
 
 # Load the Dataset
-file_path = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\final_classified_results.csv"
+file_path = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\final_classified_results.csv"
 df = pd.read_csv(file_path)
 
 # Verify Original Label Distribution
@@ -31,7 +31,7 @@ label_mapping = {"Positive": 2, "Neutral": 1, "Negative": 0}
 df_balanced["label"] = df_balanced["Sentiment"].map(label_mapping)
 
 # Save the Balanced Dataset for Fine-Tuning
-balanced_file_path = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\balanced_final_classified_results.csv"
+balanced_file_path = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\balanced_final_classified_results.csv"
 df_balanced.to_csv(balanced_file_path, index=False)
 
 print(f"\nBalanced dataset saved at: {balanced_file_path}")

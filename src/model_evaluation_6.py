@@ -7,8 +7,8 @@ from sklearn.metrics import (
 )
 
 # Load Prediction & Ground Truth Data
-file_predictions = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\balanced_final_classified_results.csv"
-file_ground_truth = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\balanced_ground_truth_dataset.csv"
+file_predictions = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\balanced_final_classified_results.csv"
+file_ground_truth = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\balanced_ground_truth_dataset.csv"
 
 # Read Data
 df_predictions = pd.read_csv(file_predictions)

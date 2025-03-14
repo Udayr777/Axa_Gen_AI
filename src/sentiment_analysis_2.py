@@ -7,8 +7,8 @@ model_name = "cardiffnlp/twitter-roberta-base-sentiment-latest"  # pre-trained s
 sentiment_analyzer = pipeline("text-classification", model=model_name, tokenizer=model_name, device=0)
 
 # Loading processed transcripts
-input_file = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\processed_transcripts.json"
-output_file = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\final_classified_results.csv"
+input_file = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\processed_transcripts.json"
+output_file = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\final_classified_results.csv"
 
 with open(input_file, "r", encoding="utf-8") as file:
     transcripts_data = json.load(file)

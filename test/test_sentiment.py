@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load sentiment results
-predictions_file = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\balanced_final_classified_results.csv"
+predictions_file = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\balanced_final_classified_results.csv"
 df = pd.read_csv(predictions_file)
 
 def test_sentiment():

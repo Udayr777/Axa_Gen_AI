@@ -2,7 +2,7 @@ import json
 import os
 
 # Load processed data
-processed_file = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\processed_transcripts.json"
+processed_file = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\processed_transcripts.json"
 
 def test_preprocessing():
     assert os.path.exists(processed_file), "Processed data file not found!"

@@ -3,7 +3,7 @@ import re
 import json
 
 # Path to dataset directory
-DATASET_PATH = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\datasets\Transcripts_v3 - Dummy Data\transcripts_v3"
+DATASET_PATH = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\datasets\Transcripts_v3 - Dummy Data\transcripts_v3"
 
 # Function to clean customer statements which remove noise
 def clean_text(text):
@@ -46,7 +46,7 @@ def process_transcripts():
             print(f"Skipping empty transcript: {transcript_file}")
 
     # Save processed data to JSON format
-    output_path = r"C:\Uday\Consultancy\AXA Insurance\Axa_Gen_AI\results\processed_transcripts.json"
+    output_path = r"C:\Uday\Constant\AXA Insurance\Axa_Gen_AI\results\processed_transcripts.json"
     
     with open(output_path, "w", encoding="utf-8") as json_file:
         json.dump(transcripts_data, json_file, indent=4)
