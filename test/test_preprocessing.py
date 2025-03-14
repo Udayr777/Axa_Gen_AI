@@ -17,7 +17,7 @@ def test_preprocessing():
         assert all(isinstance(s, str) for s in statements), f"All statements should be strings in {key}!"
         assert all(len(s) > 0 for s in statements), f"Empty statement found in {key}!"
     
-    print("✅ Preprocessing test passed!")
+    print("Preprocessing test passed!")
 
 if __name__ == "__main__":
     test_preprocessing()

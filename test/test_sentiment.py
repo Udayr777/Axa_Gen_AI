@@ -10,7 +10,7 @@ def test_sentiment():
     assert "Sentiment" in df.columns, "Sentiment column missing!"
     assert df["Sentiment"].isin(valid_labels).all(), "Invalid sentiment labels detected!"
     
-    print("✅ Sentiment classification test passed!")
+    print("Sentiment classification test passed!")
 
 if __name__ == "__main__":
     test_sentiment()
